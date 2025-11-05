@@ -43,7 +43,7 @@
 43. Longest ZigZag Path in a Binary Tree
 44. Path Sum II 
 45. N-ary Tree Maximum Depth
-46. N-ary Tree Postorder Traversal
+46. N-ary Tree Postorder Traversal̃
 47. Delete Leaves With a Given Value
 48. House Robber III
 49. reverse level order traversal.
@@ -54,6 +54,9 @@
 54.  Remove Half Nodes in a Binary Tree
 55. Merge Two Binary Trees
 56. Vertical Sum of a Binary Tree
+57. Check if a Binary Tree is a Sum Tree
+58. K-th Ancestor of a Node in a Binary Tree
+59. Check if two binary trees are isomorphic
 
 // Questions not attempted:
 427. Construct Quad Tree
