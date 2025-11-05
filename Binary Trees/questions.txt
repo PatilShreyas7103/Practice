@@ -36,3 +36,24 @@
 36. Root to leaf Path Sum in Binary Tree
 37. Average of Levels in Binary Tree
 38. Sum Root to Leaf Numbers
+39. Maximum Level Sum of a Binary Tree
+40. Leaf similar trees
+41. Count Good Nodes in Binary Tree
+42. LeetCode 437: Path Sum III 
+43. Longest ZigZag Path in a Binary Tree
+44. Path Sum II 
+45. N-ary Tree Maximum Depth
+46. N-ary Tree Postorder Traversal
+47. Delete Leaves With a Given Value
+48. House Robber III
+49. reverse level order traversal.
+50. Find the minimum depth of a binary tree
+51. Diagonal Traversal of a Binary Tree
+52. Cousins in Binary Tree
+53. Find All Cousins of a Given Node in a Binary Tree
+54.  Remove Half Nodes in a Binary Tree
+55. Merge Two Binary Trees
+56. Vertical Sum of a Binary Tree
+
+// Questions not attempted:
+427. Construct Quad Tree

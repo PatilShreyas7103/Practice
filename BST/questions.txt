@@ -16,3 +16,20 @@
 16. Largest BST in a Binary Tree
 17. Convert Sorted Array to Binary Search Tree
 18. Minimum Absolute Difference in BST
+19. Balance a Binary Search Tree
+20. Trim a Binary Search Tree
+21. Convert Sorted Linked List to Binary Search Tree
+22. Convert BST to Greater Tree
+23. Serialize and Deserialize BST
+24. Find Mode in Binary Search Tree
+25. Minimum Distance Between BST Nodes
+26. Increasing Order Search Tree
+27. Find Common Nodes in Two BSTs 
+28. Get All Elements in Two Binary Search Trees
+29. Maximum Sum BST in Binary Tree 
+30. Unique Binary Search Trees
+31. Closest Nodes Queries in a Binary Search Tree
+
+
+// Questions not attempted:
+1569. Number of Ways to Reorder Array to Get Same BST
