@@ -29,6 +29,7 @@
 29. Maximum Sum BST in Binary Tree 
 30. Unique Binary Search Trees
 31. Closest Nodes Queries in a Binary Search Tree
+32. Convert a Binary Tree to a Binary Search Tree (BST)
 
 
 // Questions not attempted:

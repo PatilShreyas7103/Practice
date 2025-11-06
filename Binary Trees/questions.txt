@@ -57,6 +57,9 @@
 57. Check if a Binary Tree is a Sum Tree
 58. K-th Ancestor of a Node in a Binary Tree
 59. Check if two binary trees are isomorphic
+60. Print all nodes at distance k from the root
+61. Populate Inorder Successor for All Nodes in a Binary Tree
 
 // Questions not attempted:
 427. Construct Quad Tree
+Distribute candies GFG
