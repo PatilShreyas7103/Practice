@@ -16,4 +16,6 @@
 16. Delete the Middle Node of a Linked List
 17. Sort List
 18. Segregate 0s, 1s, and 2s in Linked List
-19. 
+19. Intersection of Two Linked Lists
+20. Add One to Number Represented by Linked List
+21. Add Two Numbers Represented by Linked Lists
