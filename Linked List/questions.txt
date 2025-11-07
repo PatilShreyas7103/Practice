@@ -1,0 +1,19 @@
+1. Linked List Implementation with Insert at Head and Tail
+2. Deletion in Linked List\
+3. Length of linked List
+4. Search a value in Linked List
+5. Insertion in Doubly Linked List
+6. Deletion in Doubly Linked List
+7. Reverse a Doubly linked List
+8. Middle of the Linked List
+9. Reverse Linked List
+10. Cycle detection
+11. Linked List Cycle Start Detection
+12. Length of Loop in Linked List
+13. Palindrome linked List
+14. Odd even linked List
+15. Remove nth node from end
+16. Delete the Middle Node of a Linked List
+17. Sort List
+18. Segregate 0s, 1s, and 2s in Linked List
+19. 
