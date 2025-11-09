@@ -19,3 +19,10 @@
 19. Intersection of Two Linked Lists
 20. Add One to Number Represented by Linked List
 21. Add Two Numbers Represented by Linked Lists
+22. Delete all occurences of a key in Doubly linked List
+23. Find pairs with given sum in doubly linked list
+24. Remove duplicates from a sorted Doubly Linked List
+25. Reverse Nodes in k-Group in a Singly Linked List
+26. Rotate Right a Singly Linked List by k positions
+27. Flatten a linked list with child pointers
+28. Copy List with Random Pointer
