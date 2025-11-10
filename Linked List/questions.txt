@@ -26,3 +26,17 @@
 26. Rotate Right a Singly Linked List by k positions
 27. Flatten a linked list with child pointers
 28. Copy List with Random Pointer
+29. Merge Two Sorted Linked Lists
+30. 143. Reorder List
+31. Reverse Linked List II — Reverse Sublist Between Left and Right
+32. Partition List — Separate Nodes Based on Pivot Value x
+33. Remove All Duplicates from Sorted Linked List 
+34. LRU cache
+35. Maximum Twin Sum of a Linked List
+36. Design HashMap
+37. 287. Find the Duplicate Number 
+38. Merge k sorted lists
+
+
+// Pending questions:
+460. LFU cache
