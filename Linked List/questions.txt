@@ -36,7 +36,9 @@
 36. Design HashMap
 37. 287. Find the Duplicate Number 
 38. Merge k sorted lists
-
+39. Design Circular Queue
+40. Swap Nodes in Pairs
+41. 
 
 // Pending questions:
 460. LFU cache
