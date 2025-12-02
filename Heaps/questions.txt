@@ -6,4 +6,7 @@
 6. Merge K Sorted Lists - Heap Approach 
 7. Array Rank Transform
 8. Task Scheduler
-9. 
+9. Hand of Straights
+10. Minimum Cost to Connect Ropes 
+11. Kth Largest Element in a Stream
+12. Top k most frequent elements

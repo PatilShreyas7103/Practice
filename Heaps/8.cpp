@@ -47,55 +47,44 @@ public:
  * Class implementing the Priority Queue Simulation approach.
  * Time Complexity: O(N log A) where N is the number of tasks and A is the number of unique task types (max 26).
  */
-class TaskSchedulerPQ {
+// Question: Task Scheduler (Heap Approach)
+
+#include <bits/stdc++.h>
+using namespace std;
+
+class Solution {
 public:
-    int leastInterval(std::vector<char>& tasks, int n) {
-        if (tasks.empty()) {
-            return 0;
-        }
+    int leastInterval(vector<char>& tasks, int n) {
+        priority_queue<int> pq;
+        vector<int> mp(26, 0);
 
-        // 1. Calculate frequency
-        std::map<char, int> taskCounts;
-        for (char task : tasks) {
-            taskCounts[task]++;
+        for (char i : tasks) {
+            mp[i - 'A']++;
         }
-
-        // 2. Build a Max Heap (Priority Queue) of task frequencies
-        std::priority_queue<int> maxHeap;
-        for (auto const& [task, count] : taskCounts) {
-            maxHeap.push(count);
+        for (int i = 0; i < 26; ++i) {
+            if (mp[i]) pq.push(mp[i]);
         }
 
         int time = 0;
+        while (!pq.empty()) {
+            vector<int> remain;
+            int cycle = n + 1;
 
-        // 3. Simulate the CPU scheduling cycle
-        while (!maxHeap.empty()) {
-            
-            std::vector<int> executedTasks;
-            
-            // Execute tasks for one cycle of length (n + 1)
-            for (int i = 0; i <= n; ++i) {
-                if (maxHeap.empty()) {
-                    break;
-                }
-
-                int count = maxHeap.top();
-                maxHeap.pop();
-
-                // Store reduced frequency for re-insertion
-                if (count > 1) {
-                    executedTasks.push_back(count - 1);
-                }
-                
-                time++;
+            while (cycle && !pq.empty()) {
+                int max_freq = pq.top();
+                pq.pop();
+                if (max_freq > 1) remain.push_back(max_freq - 1);
+                ++time;
+                --cycle;
             }
 
-            // 4. Re-add tasks after cooldown
-            for (int count : executedTasks) {
-                maxHeap.push(count);
+            for (int count : remain) {
+                pq.push(count);
             }
+
+            if (pq.empty()) break;
+            time += cycle;
         }
-
         return time;
     }
 };
