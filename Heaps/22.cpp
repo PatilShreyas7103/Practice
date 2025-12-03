@@ -1,5 +1,4 @@
-// Rearrange characters in a string such that no two adjacent characters are the same. 
-
+// Reorganize string
 #include <iostream>
 #include <vector>
 #include <stack>
@@ -19,7 +18,42 @@
 #include <numeric>
 using namespace std;
 
-class Solution {
+class Solution1 {
+public:
+    string reorganizeString(string s) {
+        map<char, int> mp;
+        for (char c : s) {
+            mp[c]++;
+        }
+
+        priority_queue<pair<int, char>> pq;
+        for (auto &[ch, freq] : mp) {
+            pq.push({freq, ch});
+        }
+
+        string res;
+        while (pq.size() >= 2) {
+            auto [freq1, char1] = pq.top(); pq.pop();
+            auto [freq2, char2] = pq.top(); pq.pop();
+
+            res += char1;
+            res += char2;
+
+            if (--freq1 > 0) pq.push({freq1, char1});
+            if (--freq2 > 0) pq.push({freq2, char2});
+        }
+
+        if (!pq.empty()) {
+            auto [freq, ch] = pq.top();
+            if (freq > 1) return "";
+            res += ch;
+        }
+
+        return res;
+    }
+};
+
+class Solution2 {
 public:
     string rearrangeString(string s) {
         using P = pair<int,char>;
