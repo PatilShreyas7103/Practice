@@ -19,4 +19,6 @@
 19. Total cost to hire k workers
 20. Heap sort
 21. Minimum Cost Path in a Grid using Dijkstra's Algorithm
-22.  Rearrange characters in a string such that no two adjacent characters are the same. 
+22. Rearrange characters in a string such that no two adjacent characters are the same. 
+23. Last stone weight
+24. K closest points to origin
