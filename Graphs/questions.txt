@@ -3,3 +3,8 @@
 3. Number of provinces
 4. Rotting oranges
 5. Flood fill
+6. Cycle detection in undirected graph using bfs and DFS
+7. 01 matrix
+8. Surrounded regions
+9. Number of enclaves
+10. Word ladder
