@@ -1,6 +1,5 @@
-// 126. Word Ladder 2
+// Word ladder 2
 
-#include <bits/stdc++.h>
 #include <iostream>
 #include <vector>
 #include <stack>
@@ -20,58 +19,63 @@
 #include <numeric>
 using namespace std;
 
-
 class Solution {
 public:
-    void dfs(string b, string e, vector<string> path,unordered_map<string,unordered_set<string>> &adj, vector<vector<string>> &ans)
-    {
-        path.push_back(b);
-        if(b==e)
-        {
-            ans.push_back(path);
-            path.pop_back();
-            return;
-        }
 
-        for(auto it: adj[b])
+    void dfs(string s, string e, vector<string> &path, 
+    vector<vector<string>> &ans, unordered_map<string, unordered_set<string>> &adj )
+    {
+        path.push_back(s);
+
+        if(s==e)
         {
-            dfs(it,e,path,adj,ans);
+            // reached end
+            ans.push_back(path);
+        }
+        else
+        {
+            for(auto it: adj[s])
+            {
+                dfs(it,e,path,ans,adj);
+            }
         }
         path.pop_back();
     }
-    vector<vector<string>> findLadders(string b, string e, vector<string>& w) {
-        unordered_set<string> st(w.begin(), w.end()); // dictionary
-        unordered_map<string,int> vis; // level depth
-        unordered_map<string,unordered_set<string>> adj; // adjacency list
+    vector<vector<string>> findLadders(string s, string e, vector<string>& w) {
 
-        queue<string> q;
-        q.push(b);
-        vis[b] = 0;
-        int n = b.length();
+        int n = s.length();
+
+        queue<string> q; // traverse
+        unordered_map<string,int> vis; // mark level
+        unordered_map<string, unordered_set<string>> adj; // adj list
+        unordered_set<string> st(w.begin(), w.end());
+
+        q.push(s);
+        vis[s] = 0;
+
         while(!q.empty())
         {
             string curr = q.front();
             q.pop();
-
             string temp = curr;
+
             for(int i=0; i<n; i++)
             {
                 char c = temp[i];
                 for(char ch='a'; ch<='z'; ch++)
                 {
                     temp[i] = ch;
-
                     if(st.count(temp)>0)
                     {
+                        // present in word list
                         if(temp==curr)
                         {
-                            // same string
+                            // same word skip
                             continue;
                         }
 
                         if(vis.count(temp)==0)
                         {
-                            // not present
                             vis[temp] = vis[curr]+1;
                             q.push(temp);
                             adj[curr].insert(temp);
@@ -86,9 +90,11 @@ public:
                 temp[i] = c;
             }
         }
+
         vector<vector<string>> ans;
         vector<string> path;
-        dfs(b,e,path,adj,ans);
+
+        dfs(s,e,path,ans,adj);
 
         return ans;
     }
