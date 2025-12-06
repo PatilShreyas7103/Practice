@@ -16,3 +16,7 @@
 16. Detect cycle in directed graph using Topo Sort
 17. Course schedule 1
 18. Course schedule 2
+19. Eventual safe states
+20. Alien Dictionary
+21. Shortest path in undirected graph with uniform weights
+22. Shortest path in Directed Acyclic Graph (DAG)
