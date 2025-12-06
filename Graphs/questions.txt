@@ -8,3 +8,5 @@
 8. Surrounded regions
 9. Number of enclaves
 10. Word ladder
+11. Word ladder 2
+12. 
