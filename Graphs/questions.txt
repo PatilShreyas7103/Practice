@@ -9,4 +9,6 @@
 9. Number of enclaves
 10. Word ladder
 11. Word ladder 2
-12. 
+12. Count islands
+13. Graph Bipartite
+14. Detect cycle in directed graph
