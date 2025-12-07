@@ -1,4 +1,5 @@
 // 1631. Path With Minimum Effort
+// Link: https://leetcode.com/problems/path-with-minimum-effort/
 
 #include <iostream>
 #include <vector>

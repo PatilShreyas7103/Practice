@@ -1,4 +1,5 @@
 // Detect Cycle in Directed Graph — Kahn’s Topological Sort
+// Link: https://www.geeksforgeeks.org/topological-sorting-indegree-based-solution-kahns-algorithm/
 
 #include <bits/stdc++.h>
 using namespace std;

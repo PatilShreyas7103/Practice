@@ -1,30 +1,89 @@
 1. Implementation of Max Heap and Min Heap
-2. Check if the given array is a Min-Heap and Max-Heap 
-3. Convert min heap to max heap
-4. Find kth largest and smallest in an array
-5. Sort K sorted array (nearly sorted)
-6. Merge K Sorted Lists - Heap Approach 
+https://www.geeksforgeeks.org/binary-heap/
+
+2. Check if the given array is a Min-Heap / Max-Heap
+https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/
+
+3. Convert Min Heap to Max Heap
+https://www.geeksforgeeks.org/convert-min-heap-to-max-heap/
+
+4. Find Kth Largest and Smallest in an Array
+https://leetcode.com/problems/kth-largest-element-in-an-array/
+
+5. Sort K Sorted Array (Nearly Sorted)
+https://www.geeksforgeeks.org/nearly-sorted-algorithm/
+
+6. Merge K Sorted Lists — Heap Approach
+https://leetcode.com/problems/merge-k-sorted-lists/
+
 7. Array Rank Transform
+https://leetcode.com/problems/rank-transform-of-an-array/
+
 8. Task Scheduler
+https://leetcode.com/problems/task-scheduler/
+
 9. Hand of Straights
-10. Minimum Cost to Connect Ropes 
+https://leetcode.com/problems/hand-of-straights/
+
+10. Minimum Cost to Connect Ropes
+https://www.geeksforgeeks.org/connect-n-ropes-minimum-cost/
+
 11. Kth Largest Element in a Stream
-12. Top k most frequent elements
-13. Maximum sum combination
-14. Median from data Stream
+https://leetcode.com/problems/kth-largest-element-in-a-stream/
+
+12. Top K Most Frequent Elements
+https://leetcode.com/problems/top-k-frequent-elements/
+
+13. Maximum Sum Combination
+https://www.geeksforgeeks.org/k-maximum-sum-combinations-two-arrays/
+
+14. Median from Data Stream
+https://leetcode.com/problems/find-median-from-data-stream/
+
 15. Design Twitter
+https://leetcode.com/problems/design-twitter/
+
 16. Find K Pairs with Smallest Sums
+https://leetcode.com/problems/find-k-pairs-with-smallest-sums/
+
 17. IPO
+https://leetcode.com/problems/ipo/
+
 18. Smallest Number in Infinite Set
-19. Total cost to hire k workers
-20. Heap sort
-21. Minimum Cost Path in a Grid using Dijkstra's Algorithm
-22. Reorganize string
-23. Last stone weight
-24. K closest points to origin
-25. Single threaded CPU
-26. Longest happy string
-27. Car pooling
+https://leetcode.com/problems/smallest-number-in-infinite-set/
+
+19. Total Cost to Hire K Workers
+https://leetcode.com/problems/total-cost-to-hire-k-workers/
+
+20. Heap Sort
+https://www.geeksforgeeks.org/heap-sort/
+
+21. Minimum Cost Path in a Grid (Dijkstra)
+https://www.geeksforgeeks.org/min-cost-path-dp-6/
+
+22. Reorganize String
+https://leetcode.com/problems/reorganize-string/
+
+23. Last Stone Weight
+https://leetcode.com/problems/last-stone-weight/
+
+24. K Closest Points to Origin
+https://leetcode.com/problems/k-closest-points-to-origin/
+
+25. Single Threaded CPU
+https://leetcode.com/problems/single-threaded-cpu/
+
+26. Longest Happy String
+https://leetcode.com/problems/longest-happy-string/
+
+27. Car Pooling
+https://leetcode.com/problems/car-pooling/
+
 28. 658. Find K Closest Elements
+https://leetcode.com/problems/find-k-closest-elements/
+
 29. Maximum Number of Events That Can Be Attended
-30. The skyline problem
+https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/
+
+30. The Skyline Problem
+https://leetcode.com/problems/the-skyline-problem/

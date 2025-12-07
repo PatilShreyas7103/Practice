@@ -1,4 +1,5 @@
 // Is Graph Bipartite?
+// Link: https://leetcode.com/problems/is-graph-bipartite/
 
 #include <bits/stdc++.h>
 #include <iostream>

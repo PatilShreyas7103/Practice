@@ -1,4 +1,5 @@
 // Course schedule 1
+// Link: https://leetcode.com/problems/course-schedule/
 #include <bits/stdc++.h>
 #include <iostream>
 #include <vector>

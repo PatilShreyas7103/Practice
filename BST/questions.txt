@@ -1,36 +1,99 @@
-1. Search in a Binary Search Tree — Recursive and Iterative Approaches
-2. Find maximum and minimum element in a BST
+1. Search in a Binary Search Tree (Recursive + Iterative)
+https://leetcode.com/problems/search-in-a-binary-search-tree/
+
+2. Find Maximum and Minimum Element in a BST
+https://www.geeksforgeeks.org/find-the-maximum-or-minimum-element-in-binary-search-tree/
+
 3. Find Ceil and Floor in a BST
+https://www.geeksforgeeks.org/floor-and-ceil-from-a-bst/
+
 4. Insert into a Binary Search Tree
+https://leetcode.com/problems/insert-into-a-binary-search-tree/
+
 5. Delete Node in a Binary Search Tree
+https://leetcode.com/problems/delete-node-in-a-binary-search-tree/
+
 6. Kth Smallest Element in a BST
+https://leetcode.com/problems/kth-smallest-element-in-a-bst/
+
 7. Kth Largest Element in a BST
+https://www.geeksforgeeks.org/kth-largest-element-bst-using-constant-extra-space/
+
 8. Validate Binary Search Tree
+https://leetcode.com/problems/validate-binary-search-tree/
+
 9. Lowest Common Ancestor in a BST
+https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+
 10. Construct BST from Preorder Traversal
+https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/
+
 11. Find Predecessor and Successor in a BST
-12. Merge Two BSTs into a Sorted List
+https://www.geeksforgeeks.org/predecessor-successor-given-key-bst/
+
+12. Merge Two BSTs Into a Sorted List
+https://leetcode.com/problems/all-elements-in-two-binary-search-trees/
+
 13. BST Iterator
+https://leetcode.com/problems/binary-search-tree-iterator/
+
 14. Two Sum in BST
+https://leetcode.com/problems/two-sum-iv-input-is-a-bst/
+
 15. Recover Binary Search Tree
+https://leetcode.com/problems/recover-binary-search-tree/
+
 16. Largest BST in a Binary Tree
+https://www.geeksforgeeks.org/largest-bst-binary-tree-set-2/
+
 17. Convert Sorted Array to Binary Search Tree
+https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
+
 18. Minimum Absolute Difference in BST
+https://leetcode.com/problems/minimum-absolute-difference-in-bst/
+
 19. Balance a Binary Search Tree
+https://leetcode.com/problems/balance-a-binary-search-tree/
+
 20. Trim a Binary Search Tree
-21. Convert Sorted Linked List to Binary Search Tree
+https://leetcode.com/problems/trim-a-binary-search-tree/
+
+21. Convert Sorted Linked List to BST
+https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/
+
 22. Convert BST to Greater Tree
+https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/
+
 23. Serialize and Deserialize BST
+https://leetcode.com/problems/serialize-and-deserialize-bst/
+
 24. Find Mode in Binary Search Tree
+https://leetcode.com/problems/find-mode-in-binary-search-tree/
+
 25. Minimum Distance Between BST Nodes
+https://leetcode.com/problems/minimum-distance-between-bst-nodes/
+
 26. Increasing Order Search Tree
-27. Find Common Nodes in Two BSTs 
-28. Get All Elements in Two Binary Search Trees
-29. Maximum Sum BST in Binary Tree 
+https://leetcode.com/problems/increasing-order-search-tree/
+
+27. Find Common Nodes in Two BSTs
+https://www.geeksforgeeks.org/find-common-nodes-in-two-binary-search-trees/
+
+28. Get All Elements in Two BSTs
+https://leetcode.com/problems/all-elements-in-two-binary-search-trees/
+
+29. Maximum Sum BST in Binary Tree
+https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/
+
 30. Unique Binary Search Trees
-31. Closest Nodes Queries in a Binary Search Tree
+https://leetcode.com/problems/unique-binary-search-trees/
+
+31. Closest Nodes Queries in a BST
+https://leetcode.com/problems/closest-nodes-queries-in-a-binary-search-tree/
+
 32. Convert a Binary Tree to a Binary Search Tree (BST)
+https://www.geeksforgeeks.org/binary-tree-to-binary-search-tree-conversion/
 
-
-// Questions not attempted:
+// Not attempted:
 1569. Number of Ways to Reorder Array to Get Same BST
+https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/

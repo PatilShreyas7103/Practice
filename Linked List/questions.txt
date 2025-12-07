@@ -1,44 +1,122 @@
-1. Linked List Implementation with Insert at Head and Tail
-2. Deletion in Linked List\
-3. Length of linked List
-4. Search a value in Linked List
-5. Insertion in Doubly Linked List
-6. Deletion in Doubly Linked List
-7. Reverse a Doubly linked List
-8. Middle of the Linked List
-9. Reverse Linked List
-10. Cycle detection
-11. Linked List Cycle Start Detection
-12. Length of Loop in Linked List
-13. Palindrome linked List
-14. Odd even linked List
-15. Remove nth node from end
-16. Delete the Middle Node of a Linked List
-17. Sort List
-18. Segregate 0s, 1s, and 2s in Linked List
-19. Intersection of Two Linked Lists
-20. Add One to Number Represented by Linked List
-21. Add Two Numbers Represented by Linked Lists
-22. Delete all occurences of a key in Doubly linked List
-23. Find pairs with given sum in doubly linked list
-24. Remove duplicates from a sorted Doubly Linked List
-25. Reverse Nodes in k-Group in a Singly Linked List
-26. Rotate Right a Singly Linked List by k positions
-27. Flatten a linked list with child pointers
-28. Copy List with Random Pointer
-29. Merge Two Sorted Linked Lists
-30. 143. Reorder List
-31. Reverse Linked List II — Reverse Sublist Between Left and Right
-32. Partition List — Separate Nodes Based on Pivot Value x
-33. Remove All Duplicates from Sorted Linked List 
-34. LRU cache
-35. Maximum Twin Sum of a Linked List
-36. Design HashMap
-37. 287. Find the Duplicate Number 
-38. Merge k sorted lists
-39. Design Circular Queue
-40. Swap Nodes in Pairs
-41. 
+1. Linked List Implementation (Insert Head/Tail)
+https://www.geeksforgeeks.org/linked-list-set-1-introduction/
 
-// Pending questions:
-460. LFU cache
+2. Deletion in Linked List
+https://www.geeksforgeeks.org/linked-list-set-3-deleting-node/
+
+3. Length of Linked List
+https://www.geeksforgeeks.org/find-length-of-a-linked-list-iterative-and-recursive/
+
+4. Search a Value in Linked List
+https://www.geeksforgeeks.org/search-an-element-in-a-linked-list-iterative-and-recursive/
+
+5. Insertion in Doubly Linked List
+https://www.geeksforgeeks.org/doubly-linked-list/
+
+6. Deletion in Doubly Linked List
+https://www.geeksforgeeks.org/delete-a-node-in-a-doubly-linked-list/
+
+7. Reverse a Doubly Linked List
+https://www.geeksforgeeks.org/reverse-a-doubly-linked-list/
+
+8. Middle of the Linked List
+https://leetcode.com/problems/middle-of-the-linked-list/
+
+9. Reverse Linked List
+https://leetcode.com/problems/reverse-linked-list/
+
+10. Cycle Detection
+https://leetcode.com/problems/linked-list-cycle/
+
+11. Cycle Start Detection
+https://leetcode.com/problems/linked-list-cycle-ii/
+
+12. Length of Loop in Linked List
+https://www.geeksforgeeks.org/find-length-of-loop-in-linked-list/
+
+13. Palindrome Linked List
+https://leetcode.com/problems/palindrome-linked-list/
+
+14. Odd Even Linked List
+https://leetcode.com/problems/odd-even-linked-list/
+
+15. Remove Nth Node from End
+https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+
+16. Delete the Middle Node of a Linked List
+https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/
+
+17. Sort List
+https://leetcode.com/problems/sort-list/
+
+18. Segregate 0s, 1s, and 2s in Linked List
+https://www.geeksforgeeks.org/sort-a-linked-list-of-0s-1s-or-2s/
+
+19. Intersection of Two Linked Lists
+https://leetcode.com/problems/intersection-of-two-linked-lists/
+
+20. Add One to Number Represented by Linked List
+https://www.geeksforgeeks.org/add-1-to-a-number-represented-as-linked-list/
+
+21. Add Two Numbers
+https://leetcode.com/problems/add-two-numbers/
+
+22. Delete all Occurrences of a Key in Doubly Linked List
+https://www.geeksforgeeks.org/delete-all-occurrences-of-a-given-key-in-a-doubly-linked-list/
+
+23. Find Pairs with Given Sum in Doubly Linked List
+https://www.geeksforgeeks.org/find-pairs-given-sum-doubly-linked-list/
+
+24. Remove Duplicates from Sorted Doubly Linked List
+https://www.geeksforgeeks.org/remove-duplicates-from-a-sorted-doubly-linked-list/
+
+25. Reverse Nodes in k-Group
+https://leetcode.com/problems/reverse-nodes-in-k-group/
+
+26. Rotate Right a Linked List by k Positions
+https://leetcode.com/problems/rotate-list/
+
+27. Flatten a Linked List with Child Pointers
+https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/
+
+28. Copy List with Random Pointer
+https://leetcode.com/problems/copy-list-with-random-pointer/
+
+29. Merge Two Sorted Linked Lists
+https://leetcode.com/problems/merge-two-sorted-lists/
+
+30. Reorder List
+https://leetcode.com/problems/reorder-list/
+
+31. Reverse Linked List II (Reverse Sublist)
+https://leetcode.com/problems/reverse-linked-list-ii/
+
+32. Partition List
+https://leetcode.com/problems/partition-list/
+
+33. Remove All Duplicates from Sorted Linked List II
+https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/
+
+34. LRU Cache
+https://leetcode.com/problems/lru-cache/
+
+35. Maximum Twin Sum of a Linked List
+https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/
+
+36. Design HashMap
+https://leetcode.com/problems/design-hashmap/
+
+37. Find the Duplicate Number
+https://leetcode.com/problems/find-the-duplicate-number/
+
+38. Merge k Sorted Lists
+https://leetcode.com/problems/merge-k-sorted-lists/
+
+39. Design Circular Queue
+https://leetcode.com/problems/design-circular-queue/
+
+40. Swap Nodes in Pairs
+https://leetcode.com/problems/swap-nodes-in-pairs/
+
+41. LFU Cache (Pending)
+https://leetcode.com/problems/lfu-cache/

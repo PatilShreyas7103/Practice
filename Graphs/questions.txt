@@ -1,25 +1,84 @@
-1. BFS traversal
-2. DFS traversal
-3. Number of provinces
-4. Rotting oranges
-5. Flood fill
-6. Cycle detection in undirected graph using bfs and DFS
-7. 01 matrix
-8. Surrounded regions
-9. Number of enclaves
-10. Word ladder
-11. Word ladder 2
-12. Count islands
-13. Graph Bipartite
-14. Detect cycle in directed graph
-15. Topo Sort and Kahn's algo
-16. Detect cycle in directed graph using Topo Sort
-17. Course schedule 1
-18. Course schedule 2
-19. Eventual safe states
+1. BFS Traversal
+https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/
+
+2. DFS Traversal
+https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/
+
+3. Number of Provinces
+https://leetcode.com/problems/number-of-provinces/
+
+4. Rotting Oranges
+https://leetcode.com/problems/rotting-oranges/
+
+5. Flood Fill
+https://leetcode.com/problems/flood-fill/
+
+6. Cycle Detection in Undirected Graph (BFS + DFS)
+https://www.geeksforgeeks.org/detect-cycle-undirected-graph/
+(LC doesn’t have direct version)
+
+7. 01 Matrix
+https://leetcode.com/problems/01-matrix/
+
+8. Surrounded Regions
+https://leetcode.com/problems/surrounded-regions/
+
+9. Number of Enclaves
+https://leetcode.com/problems/number-of-enclaves/
+
+10. Word Ladder
+https://leetcode.com/problems/word-ladder/
+
+11. Word Ladder II
+https://leetcode.com/problems/word-ladder-ii/
+
+12. Count Islands (Number of Islands)
+https://leetcode.com/problems/number-of-islands/
+
+13. Check if Graph is Bipartite
+https://leetcode.com/problems/is-graph-bipartite/
+
+14. Detect Cycle in Directed Graph (DFS)
+https://www.geeksforgeeks.org/detect-cycle-direct-graph-using-dfs/
+
+15. Topological Sort (DFS & Kahn’s Algorithm)
+https://www.geeksforgeeks.org/topological-sorting/
+
+16. Detect Cycle in Directed Graph using Topo Sort (Kahn’s)
+https://www.geeksforgeeks.org/detect-cycle-in-a-directed-graph-using-kahns-algorithm/
+
+17. Course Schedule I
+https://leetcode.com/problems/course-schedule/
+
+18. Course Schedule II
+https://leetcode.com/problems/course-schedule-ii/
+
+19. Eventual Safe States
+https://leetcode.com/problems/find-eventual-safe-states/
+
 20. Alien Dictionary
-21. Shortest path in undirected graph with uniform weights
-22. Shortest path in Directed Acyclic Graph (DAG)
-23. Dijkstra's algo
-24. Shortest path in binary matrix
+https://www.geeksforgeeks.org/alien-dictionary/
+
+21. Shortest Path in Undirected Graph with Unit Weights
+https://www.geeksforgeeks.org/shortest-path-unweighted-graph/
+
+22. Shortest Path in DAG
+https://www.geeksforgeeks.org/shortest-path-for-directed-acyclic-graphs/
+
+23. Dijkstra’s Algorithm
+https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/
+
+24. Shortest Path in Binary Matrix
+https://leetcode.com/problems/shortest-path-in-binary-matrix/
+
 25. 1631. Path With Minimum Effort
+https://leetcode.com/problems/path-with-minimum-effort/
+
+26. 787. Cheapest Flights Within K Stops
+https://leetcode.com/problems/cheapest-flights-within-k-stops/
+
+27. Network Delay Time
+https://leetcode.com/problems/network-delay-time/
+
+28. Number of Ways to Arrive at Destination
+https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/
