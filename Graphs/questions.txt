@@ -20,3 +20,6 @@
 20. Alien Dictionary
 21. Shortest path in undirected graph with uniform weights
 22. Shortest path in Directed Acyclic Graph (DAG)
+23. Dijkstra's algo
+24. Shortest path in binary matrix
+25. 1631. Path With Minimum Effort
