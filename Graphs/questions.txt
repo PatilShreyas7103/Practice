@@ -82,3 +82,15 @@ https://leetcode.com/problems/network-delay-time/
 
 28. Number of Ways to Arrive at Destination
 https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/
+
+29. Minimum Multiplications to reach End
+https://www.geeksforgeeks.org/problems/minimum-multiplications-to-reach-end/0
+
+30. Bellman Ford
+https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1
+
+31. Floyd Warshall 
+https://www.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1
+
+32. Find the City With the Smallest Number of Neighbors at a Threshold Distance
+https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/
