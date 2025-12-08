@@ -132,3 +132,9 @@ https://www.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-a
 
 45. 133. Clone Graph
 https://leetcode.com/problems/clone-graph/
+
+46. Graph valid tree
+https://www.geeksforgeeks.org/problems/is-it-a-tree/1
+
+47. Pacific Atlantic Water Flow
+https://leetcode.com/problems/pacific-atlantic-water-flow/description/
