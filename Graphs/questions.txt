@@ -108,3 +108,6 @@ https://leetcode.com/problems/number-of-operations-to-make-network-connected/des
 
 37. Most Stones Removed with Same Row or Column
 https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/description/
+
+38. Accounts merge
+https://leetcode.com/problems/accounts-merge/
