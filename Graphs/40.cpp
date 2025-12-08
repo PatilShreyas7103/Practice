@@ -18,6 +18,7 @@
 #include <iomanip>
 #include <numeric>
 using namespace std;
+
 class DisJointSet {
 public:
     vector<int> parent;
