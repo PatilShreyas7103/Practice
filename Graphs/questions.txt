@@ -120,3 +120,15 @@ https://leetcode.com/problems/making-a-large-island/
 
 41. Swim in Rising Water
 https://leetcode.com/problems/swim-in-rising-water/
+
+42. Critical Connections in a Network (Tarjan's Algorithm)
+https://leetcode.com/problems/critical-connections-in-a-network/description/
+
+43. Articulation Points in a Graph
+https://www.geeksforgeeks.org/problems/articulation-point-1/1
+
+44. Strongly Connected Components (Kosaraju's Algorithm)
+https://www.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1
+
+45. 133. Clone Graph
+https://leetcode.com/problems/clone-graph/
