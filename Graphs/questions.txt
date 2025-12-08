@@ -111,3 +111,9 @@ https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/descri
 
 38. Accounts merge
 https://leetcode.com/problems/accounts-merge/
+
+39.  Number of Islands II (Online Queries)
+https://www.geeksforgeeks.org/problems/number-of-islands/1
+
+40. Making A Large Island
+https://leetcode.com/problems/making-a-large-island/
