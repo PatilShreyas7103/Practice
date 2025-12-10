@@ -138,3 +138,18 @@ https://www.geeksforgeeks.org/problems/is-it-a-tree/1
 
 47. Pacific Atlantic Water Flow
 https://leetcode.com/problems/pacific-atlantic-water-flow/description/
+
+48. Evaluate Division
+https://leetcode.com/problems/evaluate-division/description/?envType=study-plan-v2&envId=top-interview-150
+
+49. 909. Snakes and Ladders
+https://leetcode.com/problems/snakes-and-ladders/description/?envType=study-plan-v2&envId=top-interview-150
+
+50. Minimum Genetic mutation
+https://leetcode.com/problems/minimum-genetic-mutation/?envType=study-plan-v2&envId=top-interview-150
+
+51. Keys and rooms
+https://leetcode.com/problems/keys-and-rooms/description/?envType=study-plan-v2&envId=leetcode-75
+
+52. Reorder Routes to Make All Paths Lead to the City Zero
+https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/description/?envType=study-plan-v2&envId=leetcode-75
