@@ -1,4 +1,4 @@
-// Redundant Connection (DFS+DSU)
+// Number of Connected Components in an Undirected Graph (DFS+DSU)
  
 #include <iostream>
 #include <vector>
@@ -19,10 +19,9 @@
 #include <numeric>
 using namespace std;
 
-class Solution1 {
+class Solution {
 public:
-    void solve(int node, vector<int> adj[], int &count,
-    vector<int> &vis)
+    void dfs(int node, vector<int> adj[], vector<int> &vis)
     {
         vis[node] = 1;
 
@@ -30,43 +29,30 @@ public:
         {
             if(!vis[it])
             {
-                count++;
-                solve(it,adj,count,vis);
+                dfs(it,adj, vis);
             }
         }
     }
-
-    vector<int> findRedundantConnection(vector<vector<int>>& v) {
-        vector<int> ans;
-        int n = v.size();
-        vector<int> adj[n+1];
-        int prev = 1;
-
+    int countComponents(int n, vector<vector<int>>& v) {
+        vector<int> vis(n,0);
+        vector<int> adj[n];
+        int ans = 0;
         for(auto it: v)
         {
-            int r = it[0];
-            int c = it[1];
+            int a = it[0];
+            int b = it[1];
 
-            adj[r].push_back(c);
-            adj[c].push_back(r);
+            adj[a].push_back(b);
+            adj[b].push_back(a);
+        }
 
-            int count = 0;
-            vector<int> vis(n+1,0);
-            for(int i=1; i<=n; i++)
+        for(int i=0; i<n; i++)
+        {
+            if(!vis[i])
             {
-                if(!vis[i])
-                {
-                    solve(i,adj,count,vis);
-                }
+                ans++;
+                dfs(i,adj,vis);
             }
-
-            if(count==prev)
-            {
-                ans = it;
-            }
-            
-            prev = count;
-            
         }
 
         return ans;
@@ -151,28 +137,26 @@ public:
     }
 };
 
-class Solution2 {
+class Solution {
 public:
-    vector<int> findRedundantConnection(vector<vector<int>>& v) {
-        int n = v.size();
-
-        DisJointSet ds(n+1);
-        vector<int> ans;
-
-        for(auto it: v)
+    int countComponents(int n, vector<vector<int>>& edges) {
+        DisJointSet ds(n);
+        for(auto it: edges )
         {
-
             int a = it[0];
             int b = it[1];
 
-            if(ds.FindUpar(a)==ds.FindUpar(b))
+            ds.UnionBySize(a,b);
+        }
+
+        vector<int> v = ds.parent;  
+        int ans = 0;
+
+        for(int i=0; i<n; i++)
+        {
+            if(v[i]==i)
             {
-                ans = it;
-                break;
-            }
-            else
-            {
-                ds.UnionBySize(a,b);
+                ans++;
             }
         }
 

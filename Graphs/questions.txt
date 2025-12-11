@@ -177,3 +177,5 @@ https://leetcode.com/problems/open-the-lock/
 
 60. Redundant Connection
 https://leetcode.com/problems/redundant-connection/description/
+
+61. Number of Connected Components in an Undirected Graph
