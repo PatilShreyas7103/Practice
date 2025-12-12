@@ -186,3 +186,12 @@ https://leetcode.com/problems/minimum-height-trees/description/
 
 63. Detect Cycles in 2D Grid
 https://leetcode.com/problems/detect-cycles-in-2d-grid/
+
+64. Word Search Board
+https://www.interviewbit.com/problems/word-search-board/
+
+65. Knight On Chess Board
+https://www.interviewbit.com/problems/knight-on-chess-board/
+
+66. Minimum Swaps to Sort
+https://www.geeksforgeeks.org/problems/minimum-swaps/1?page=1&category=Graph&company=Amazon,Microsoft,Google,Flipkart,Adobe&sortBy=submissions
