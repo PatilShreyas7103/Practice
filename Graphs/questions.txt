@@ -204,3 +204,13 @@ https://www.geeksforgeeks.org/problems/circle-of-strings4530/1?page=2&category=G
 
 69. Word Boggle
 https://www.geeksforgeeks.org/problems/word-boggle4143/1?page=2&category=Graph&company=Amazon,Microsoft,Google,Flipkart,Adobe&sortBy=submissions
+
+70. Bridge edge in a graph
+https://www.geeksforgeeks.org/problems/bridge-edge-in-graph/1?page=2&category=Graph&company=Amazon,Microsoft,Google,Flipkart,Adobe&sortBy=submissions
+
+71. Hamiltonian Path
+https://www.geeksforgeeks.org/problems/hamiltonian-path2522/1?page=2&category=Graph&company=Amazon,Microsoft,Google,Flipkart,Adobe&sortBy=submissions
+
+72. Number of Closed Islands
+https://leetcode.com/problems/number-of-closed-islands/
+
