@@ -1,4 +1,4 @@
-// Knight On Chess Board
+// Knight On Chess Board (Steps by knight)
 
 #include <iostream>
 #include <vector>

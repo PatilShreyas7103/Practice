@@ -1,4 +1,4 @@
-// Word Search Board
+// Word Search 
 
 #include <iostream>
 #include <vector>
@@ -19,78 +19,65 @@
 #include <numeric>
 using namespace std;
 
-bool isValid(int r, int c, int m, int n)
-{
-    return (r>=0 && c>=0 && r<m && c<n);
-}
-
-int solve(int r, int c,int m, int n,int id, 
-vector<vector<char>>  &v, vector<vector<int>> &vis, string t,
-int dx[], int dy[])
-{
-    vis[r][c] = 1;
-    if(id==t.length()-1)
-    {
-        return true;
-    }
+class Solution {
+public:
     
-    for(int i=0; i<4; i++)
-    {
-        int nr = r+dx[i];
-        int nc = c+dy[i];
-        
-        if(isValid(nr,nc,m,n))
+    bool dfs(int r, int c, int id,
+                vector<vector<char>> &board,
+                vector<vector<int>> &vis,
+                const string &word,
+                const int dx[], const int dy[],
+                int m, int n)
         {
-            if(!vis[nr][nc])
-            {
-                if(v[nr][nc]==t[id+1])
-                {
-                    bool done = solve(nr,nc,m,n,id+1,v,vis,t,dx,dy);
-                    if(done)
-                    {
-                        return 1;
+            // if we matched the last character
+            if (id == word.length() - 1) return true;
+
+            vis[r][c] = 1;
+
+            for (int k = 0; k < 4; k++) {
+                int nr = r + dx[k];
+                int nc = c + dy[k];
+
+                if (nr >= 0 && nc >= 0 && nr < m && nc < n && !vis[nr][nc]) {
+                    // check next character
+                    if (board[nr][nc] == word[id + 1]) {
+                        if (dfs(nr, nc, id + 1, board, vis, word, dx, dy, m, n)) {
+                            vis[r][c] = 0;     // unmark before returning success
+                            return true;
+                        }
                     }
                 }
             }
-        }
-    }
-    
-    return false;
-}
 
-int exist(vector<string> &s, string t) {
-    int m = s.size();
-    int n = s[0].size();
-    
-    vector<vector<char>> v(m, vector<char> (n));
-    for(int i=0; i<m; i++)
-    {
-        for(int j=0; j<n; j++)
-        {
-            string p = s[i];
-            v[i][j] = p[j];
+            vis[r][c] = 0;   // backtrack
+            return false;
         }
-    }
-    
-    int dx[] = {-1,0,1,0};
-    int dy[] = {0,1,0,-1};
-    
-    for(int i=0; i<m; i++)
-    {
-        for(int j=0; j<n; j++)
-        {
-            if(v[i][j]==t[0])
-            {
-                vector<vector<int>> vis(m, vector<int> (n,0));
-                bool done = solve(i,j,m,n,0,v,vis,t,dx,dy);
-                if(done)
-                {
-                    return 1;
+
+    bool exist(vector<vector<char>> &board, string word) {
+        int m = board.size();
+            int n = board[0].size();
+
+            // early pruning
+            if ((int)word.length() > m * n) return 0;
+
+            const int dx[4] = {-1, 0, 1, 0};
+            const int dy[4] = {0, 1, 0, -1};
+
+            vector<vector<int>> vis(m, vector<int>(n, 0));
+
+            for (int i = 0; i < m; i++) {
+                for (int j = 0; j < n; j++) {
+
+                    if (board[i][j] == word[0]) {
+                        if (dfs(i, j, 0, board, vis, word, dx, dy, m, n)) {
+                            return 1;
+                        }
+                    }
                 }
             }
-        }
+
+            return 0;
     }
-    
-    return 0;
-    
-}
+
+};
+

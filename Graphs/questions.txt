@@ -187,11 +187,20 @@ https://leetcode.com/problems/minimum-height-trees/description/
 63. Detect Cycles in 2D Grid
 https://leetcode.com/problems/detect-cycles-in-2d-grid/
 
-64. Word Search Board
-https://www.interviewbit.com/problems/word-search-board/
+64. Word Search 
+https://leetcode.com/problems/word-search/
 
-65. Knight On Chess Board
-https://www.interviewbit.com/problems/knight-on-chess-board/
+65. Steps by knight
+https://www.geeksforgeeks.org/problems/steps-by-knight5927/1?page=1&category=Graph&company=Amazon,Microsoft,Google,Flipkart,Adobe&sortBy=submissions
 
 66. Minimum Swaps to Sort
 https://www.geeksforgeeks.org/problems/minimum-swaps/1?page=1&category=Graph&company=Amazon,Microsoft,Google,Flipkart,Adobe&sortBy=submissions
+
+67. Find whether path exist
+https://www.geeksforgeeks.org/problems/find-whether-path-exist5238/1?page=1&category=Graph&company=Amazon,Microsoft,Google,Flipkart,Adobe&sortBy=submissions
+
+68. Circle of strings
+https://www.geeksforgeeks.org/problems/circle-of-strings4530/1?page=2&category=Graph&company=Amazon,Microsoft,Google,Flipkart,Adobe&sortBy=submissions
+
+69. Word Boggle
+https://www.geeksforgeeks.org/problems/word-boggle4143/1?page=2&category=Graph&company=Amazon,Microsoft,Google,Flipkart,Adobe&sortBy=submissions

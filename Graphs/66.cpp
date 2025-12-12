@@ -58,14 +58,3 @@ int minSwaps(vector<int>& arr) {
 
     return swaps;
 }
-
-int main() {
-    int n;
-    cin >> n;
-    
-    vector<int> arr(n);
-    for (int i = 0; i < n; i++) cin >> arr[i];
-
-    cout << minSwaps(arr) << endl;
-    return 0;
-}
