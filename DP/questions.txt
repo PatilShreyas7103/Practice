@@ -13,4 +13,6 @@ https://takeuforward.org/data-structure/dynamic-programming-frog-jump-with-k-dis
 5. House Robber
 https://leetcode.com/problems/house-robber/
 
-6. 
+6. House Robber 2
+https://leetcode.com/problems/house-robber-ii/
+
