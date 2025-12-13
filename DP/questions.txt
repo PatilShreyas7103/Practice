@@ -16,3 +16,14 @@ https://leetcode.com/problems/house-robber/
 6. House Robber 2
 https://leetcode.com/problems/house-robber-ii/
 
+7. Ninja Training 
+https://www.geeksforgeeks.org/problems/geeks-training/1
+
+8. Unique Paths
+https://leetcode.com/problems/unique-paths/
+
+9. Unique Paths 2
+https://leetcode.com/problems/unique-paths-ii/
+
+10. Minimum Path Sum
+https://leetcode.com/problems/minimum-path-sum/
