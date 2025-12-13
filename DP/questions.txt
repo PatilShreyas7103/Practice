@@ -27,3 +27,10 @@ https://leetcode.com/problems/unique-paths-ii/
 
 10. Minimum Path Sum
 https://leetcode.com/problems/minimum-path-sum/
+
+11. Triangle
+https://leetcode.com/problems/triangle/
+
+12. Minimum Falling Path Sum
+https://leetcode.com/problems/minimum-falling-path-sum/
+
