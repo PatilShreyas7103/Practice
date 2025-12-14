@@ -34,3 +34,27 @@ https://leetcode.com/problems/triangle/
 12. Minimum Falling Path Sum
 https://leetcode.com/problems/minimum-falling-path-sum/
 
+13. Subset Sum
+https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1
+
+14. Partition Equal Subset Sum
+https://leetcode.com/problems/partition-equal-subset-sum/
+
+15. Minimum Subset Sum Difference 
+https://www.geeksforgeeks.org/problems/minimum-sum-partition3317/1
+
+16. Count Subsets with Sum K
+https://www.geeksforgeeks.org/problems/perfect-sum-problem5633/1
+
+
+
+
+
+
+
+
+************ Pending Problems: *****************
+
+https://leetcode.com/problems/cherry-pickup/
+https://leetcode.com/problems/cherry-pickup-ii/
+
