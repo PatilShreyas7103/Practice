@@ -1,11 +1,26 @@
-// Count Subsets with Sum K
+// Partitions with Given Difference
 
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
+#include <stack>
+#include <queue>
+#include <map>
+#include <set>
+#include <unordered_map>
+#include <unordered_set>
+#include <algorithm>
+#include <string>
+#include <cmath>
+#include <limits>
+#include <climits>
+#include <cstring>
+#include <functional>
+#include <iomanip>
+#include <numeric>
 using namespace std;
 
-/* -------------------- Memoization (Top-Down DP) -------------------- */
-class PerfectSumMemoization {
-public:
+class Memoization {
+  public:
     int solve(int index, int target,
               vector<int> &nums,
               vector<vector<int>> &dp) {
@@ -29,20 +44,45 @@ public:
 
         return dp[index][target] = take + notTake;
     }
-
-    int perfectSum(vector<int>& nums, int target) {
-        int n = nums.size();
-        vector<vector<int>> dp(n, vector<int>(target + 1, -1));
-        return solve(n - 1, target, nums, dp);
+    int countPartitions(vector<int>& v, int d) {
+        // Code v
+        int n = v.size();
+        int sum = 0;
+        
+        for(auto it: v)
+        {
+            sum+=it;
+        }
+        
+        if((sum+d)%2)
+        {
+            return 0;
+        }
+        
+        int t = (sum+d)/2;
+        vector<vector<int>> dp(n, vector<int>(t + 1, -1));
+        return solve(n - 1, t, v, dp);
     }
 };
 
-/* -------------------- Tabulation (Bottom-Up DP) -------------------- */
 class Tabulation {
   public:
-    int perfectSum(vector<int>& v, int t) {
-        // code here
+    int countPartitions(vector<int>& v, int d) {
+        // Code v
         int n = v.size();
+        int sum = 0;
+        
+        for(auto it: v)
+        {
+            sum+=it;
+        }
+        
+        if((sum+d)%2)
+        {
+            return 0;
+        }
+        
+        int t = (sum+d)/2;
         vector<vector<int>> dp(n, vector<int> (t+1,0));
         
         for(int i=0; i<n; i++)
@@ -64,12 +104,10 @@ class Tabulation {
                 {
                     take = dp[i-1][j-v[i]];
                 }
-                
-                dp[i][j] = take+dont;
+                dp[i][j] = take + dont;
             }
         }
+        
         return dp[n-1][t];
     }
 };
-
-

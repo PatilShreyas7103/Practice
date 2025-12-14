@@ -46,9 +46,8 @@ https://www.geeksforgeeks.org/problems/minimum-sum-partition3317/1
 16. Count Subsets with Sum K
 https://www.geeksforgeeks.org/problems/perfect-sum-problem5633/1
 
-
-
-
+17. Partitions with Given Difference
+https://www.geeksforgeeks.org/problems/partitions-with-given-difference/1
 
 
 
