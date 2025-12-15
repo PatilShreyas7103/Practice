@@ -66,6 +66,28 @@ https://www.geeksforgeeks.org/problems/rod-cutting0840/1
 22. Longest Common Subsequence (LCS)
 https://leetcode.com/problems/longest-common-subsequence/
 
+23. Print LCS of two strings
+https://www.naukri.com/code360/problems/print-longest-common-subsequence_8416383?leftPanelTabValue=PROBLEM
+
+24. Print all LCS of two strings
+https://www.geeksforgeeks.org/problems/print-all-lcs-sequences3413/1https://www.geeksforgeeks.org/problems/print-all-lcs-sequences3413/1
+
+25. Longest Common Substring
+https://www.geeksforgeeks.org/problems/longest-common-substring1452/1
+
+26. Longest Palindromic Subsequence
+https://leetcode.com/problems/longest-palindromic-subsequence/
+
+27. Minimum Insertion Steps to Make a String Palindrome
+https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/
+
+28. Delete Operation for Two Strings
+https://leetcode.com/problems/delete-operation-for-two-strings/
+
+29.Shortest Common Supersequence 
+https://leetcode.com/problems/shortest-common-supersequence/
+
+30. 
 
 
 
