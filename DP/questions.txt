@@ -51,6 +51,21 @@ https://www.geeksforgeeks.org/problems/perfect-sum-problem5633/1
 17. Partitions with Given Difference
 https://www.geeksforgeeks.org/problems/partitions-with-given-difference/1
 
+18. Assign Cookies
+https://leetcode.com/problems/assign-cookies/
+
+19. Coin Change
+https://leetcode.com/problems/coin-change/
+
+20. Unbounded knapsack
+https://www.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1
+
+21. Rod Cutting Problem
+https://www.geeksforgeeks.org/problems/rod-cutting0840/1
+
+22. Longest Common Subsequence (LCS)
+https://leetcode.com/problems/longest-common-subsequence/
+
 
 
 
