@@ -96,6 +96,18 @@ https://leetcode.com/problems/edit-distance/
 32. Wildcard Matching
 https://leetcode.com/problems/wildcard-matching/
 
+33. Best Time to Buy and Sell Stock
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+
+34. Best Time to Buy and Sell Stock II 
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
+
+35. Best Time to Buy and Sell Stock III
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/
+
+36. Best Time to Buy and Sell Stock IV
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/
+
 
 
 ************ Pending Problems: *****************
