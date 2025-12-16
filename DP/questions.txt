@@ -117,10 +117,19 @@ https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-f
 39. Longest Increasing Subsequence (LIS)
 https://leetcode.com/problems/longest-increasing-subsequence/
 
+40. Print Longest Increasing Subsequence
+https://www.geeksforgeeks.org/problems/printing-longest-increasing-subsequence/1
 
+41. Largest Divisible Subset
+https://leetcode.com/problems/largest-divisible-subset/
 
+42. Longest String Chain
+https://leetcode.com/problems/longest-string-chain/
 
+43. Longest Bitonic subsequence
+https://www.geeksforgeeks.org/problems/longest-bitonic-subsequence0824/1
 
+44. 
 
 
 
