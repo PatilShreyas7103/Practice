@@ -27,7 +27,7 @@ public:
               vector<vector<vector<int>>>& dp) {
 
         if (c1 < 0 || c2 < 0 || c1 >= n || c2 >= n)
-            return -1e9;
+            return 0;
 
         if (dp[r][c1][c2] != -1)
             return dp[r][c1][c2];
