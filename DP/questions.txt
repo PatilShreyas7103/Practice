@@ -159,5 +159,11 @@ https://leetcode.com/problems/count-square-submatrices-with-all-ones/
 53. Cherry Pickup II
 https://leetcode.com/problems/cherry-pickup-ii/
 
+54. 0/1 knapsack
+https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1
 
+55. Maximum Product Subarray
+https://leetcode.com/problems/maximum-product-subarray/description/
 
+56. Combination sum
+https://leetcode.com/problems/combination-sum/
