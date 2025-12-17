@@ -129,7 +129,15 @@ https://leetcode.com/problems/longest-string-chain/
 43. Longest Bitonic subsequence
 https://www.geeksforgeeks.org/problems/longest-bitonic-subsequence0824/1
 
-44. 
+44. Number of Longest Increasing Subsequence
+https://leetcode.com/problems/number-of-longest-increasing-subsequence/
+
+45. Matrix Chain Multiplication
+https://www.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1
+
+46. Minimum Cost to Cut a Stick
+https://leetcode.com/problems/minimum-cost-to-cut-a-stick/
+
 
 
 
