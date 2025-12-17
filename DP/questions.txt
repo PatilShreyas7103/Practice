@@ -144,10 +144,20 @@ https://leetcode.com/problems/burst-balloons/
 48.Evaluate Boolean Expression to True
 https://www.geeksforgeeks.org/problems/boolean-parenthesization5610/1
 
+49. Palindrome Partitioning II
+https://leetcode.com/problems/palindrome-partitioning-ii/
 
+50. Partition Array for Maximum Sum 
+https://leetcode.com/problems/partition-array-for-maximum-sum/
 
-************ Pending Problems: *****************
+51. Maximal Rectangle
+https://leetcode.com/problems/maximal-rectangle/
 
-https://leetcode.com/problems/cherry-pickup/
+52. Count Square Submatrices with All Ones
+https://leetcode.com/problems/count-square-submatrices-with-all-ones/
+
+53. Cherry Pickup II
 https://leetcode.com/problems/cherry-pickup-ii/
+
+
 
