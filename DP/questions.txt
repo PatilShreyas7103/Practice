@@ -182,3 +182,12 @@ https://www.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1
 
 61. Egg Dropping Problem
 https://www.geeksforgeeks.org/problems/egg-dropping-puzzle-1587115620/1
+
+62.  Longest Palindromic Substring
+https://leetcode.com/problems/longest-palindromic-substring/?envType=study-plan-v2&envId=top-interview-150
+
+63. Interleaving String
+https://leetcode.com/problems/interleaving-string/description/?envType=study-plan-v2&envId=top-interview-150
+
+64. Maximal Square
+https://leetcode.com/problems/maximal-square/?envType=study-plan-v2&envId=top-interview-150m
