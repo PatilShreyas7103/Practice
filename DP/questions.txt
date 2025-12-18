@@ -167,3 +167,9 @@ https://leetcode.com/problems/maximum-product-subarray/description/
 
 56. Combination sum
 https://leetcode.com/problems/combination-sum/
+
+57. Word Break
+https://leetcode.com/problems/word-break/
+
+58. Decode ways
+https://leetcode.com/problems/decode-ways/
