@@ -173,3 +173,12 @@ https://leetcode.com/problems/word-break/
 
 58. Decode ways
 https://leetcode.com/problems/decode-ways/
+
+59. Maximum Profit in Job Scheduling
+https://leetcode.com/problems/maximum-profit-in-job-scheduling/
+
+60. Max Sum Increasing Subsequence
+https://www.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1
+
+61. Egg Dropping Problem
+https://www.geeksforgeeks.org/problems/egg-dropping-puzzle-1587115620/1
