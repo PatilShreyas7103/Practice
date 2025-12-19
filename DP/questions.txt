@@ -201,3 +201,23 @@ https://leetcode.com/problems/min-cost-climbing-stairs/?envType=study-plan-v2&en
 67. Palindromic Substrings
 https://leetcode.com/problems/palindromic-substrings/
 
+68. Combination sum IV
+https://leetcode.com/problems/combination-sum-iv/
+
+69. Perfect Squares
+https://leetcode.com/problems/perfect-squares/
+
+70. Integer Break
+https://leetcode.com/problems/integer-break/
+
+71. Target Sum
+https://leetcode.com/problems/target-sum/
+
+72. Coin Change II
+https://leetcode.com/problems/coin-change-ii/
+
+73. Last Stone Weight II
+https://leetcode.com/problems/last-stone-weight-ii/
+
+74. Stone Game
+https://leetcode.com/problems/stone-game/
