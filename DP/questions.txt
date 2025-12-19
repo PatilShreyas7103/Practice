@@ -191,3 +191,13 @@ https://leetcode.com/problems/interleaving-string/description/?envType=study-pla
 
 64. Maximal Square
 https://leetcode.com/problems/maximal-square/?envType=study-plan-v2&envId=top-interview-150m
+
+65. N-th Tribonacci Number
+https://leetcode.com/problems/n-th-tribonacci-number/?envType=study-plan-v2&envId=leetcode-75
+
+66. Min Cost Climbing Stairs
+https://leetcode.com/problems/min-cost-climbing-stairs/?envType=study-plan-v2&envId=leetcode-75
+
+67. Palindromic Substrings
+https://leetcode.com/problems/palindromic-substrings/
+
