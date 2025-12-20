@@ -221,3 +221,6 @@ https://leetcode.com/problems/last-stone-weight-ii/
 
 74. Stone Game
 https://leetcode.com/problems/stone-game/
+
+75. Longest Increasing Path in a Matrix
+https://leetcode.com/problems/longest-increasing-path-in-a-matrix/
