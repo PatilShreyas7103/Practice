@@ -5,3 +5,9 @@ https://leetcode.com/problems/implement-trie-prefix-tree/
 
 2. Implement Trie II
 https://www.naukri.com/code360/problems/implement-trie_1387095
+
+3. Longest Valid Word with All Prefixes
+https://www.geeksforgeeks.org/problems/longest-valid-word-with-all-prefixes/1
+
+4. Number of Distinct Substrings in a String
+https://www.geeksforgeeks.org/problems/count-of-distinct-substrings/1
