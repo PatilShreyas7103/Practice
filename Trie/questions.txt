@@ -11,3 +11,9 @@ https://www.geeksforgeeks.org/problems/longest-valid-word-with-all-prefixes/1
 
 4. Number of Distinct Substrings in a String
 https://www.geeksforgeeks.org/problems/count-of-distinct-substrings/1
+
+5. Maximum XOR of Two Numbers in an Array
+https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
+
+6. Maximum XOR With an Element From Array
+https://leetcode.com/problems/maximum-xor-with-an-element-from-array/
