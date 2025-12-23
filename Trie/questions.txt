@@ -17,3 +17,15 @@ https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
 
 6. Maximum XOR With an Element From Array
 https://leetcode.com/problems/maximum-xor-with-an-element-from-array/
+
+7. Power Set of string -> Print all subsequences
+https://www.geeksforgeeks.org/problems/power-set4302/1
+
+8. Design Add and Search Words Data Structure
+https://leetcode.com/problems/design-add-and-search-words-data-structure/?envType=study-plan-v2&envId=top-interview-150
+
+9. Word Search II
+https://leetcode.com/problems/word-search-ii/?envType=study-plan-v2&envId=top-interview-150
+
+10. Search Suggestions System
+https://leetcode.com/problems/search-suggestions-system/?envType=study-plan-v2&envId=leetcode-75
