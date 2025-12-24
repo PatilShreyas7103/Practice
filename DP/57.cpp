@@ -89,3 +89,70 @@ public:
         return dp[0];
     }
 };
+
+// Approach : Using Trie + DP
+class TrieNode {
+public:
+    TrieNode* children[26];
+    bool isEnd;
+
+    TrieNode() {
+        for (int i = 0; i < 26; i++) children[i] = nullptr;
+        isEnd = false;
+    }
+};
+
+class Trie {
+public:
+    TrieNode* root;
+
+    Trie() {
+        root = new TrieNode();
+    }
+
+    void insert(const string& word) {
+        TrieNode* node = root;
+        for (char ch : word) {
+            int idx = ch - 'a';
+            if (!node->children[idx]) {
+                node->children[idx] = new TrieNode();
+            }
+            node = node->children[idx];
+        }
+        node->isEnd = true;
+    }
+};
+
+class Solution {
+public:
+    bool wordBreak(string s, vector<string>& wordDict) {
+        int n = s.length();
+
+        Trie trie;
+        for (const string& word : wordDict) {
+            trie.insert(word);
+        }
+
+        vector<bool> dp(n + 1, false);
+        dp[n] = true;
+
+        for (int i = n - 1; i >= 0; i--) {
+            TrieNode* node = trie.root;
+
+            for (int j = i; j < n; j++) {
+                int idx = s[j] - 'a';
+                if (!node->children[idx]) {
+                    break;
+                }
+
+                node = node->children[idx];
+                if (node->isEnd && dp[j + 1]) {
+                    dp[i] = true;
+                    break;
+                }
+            }
+        }
+
+        return dp[0];
+    }
+};

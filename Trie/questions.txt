@@ -29,3 +29,9 @@ https://leetcode.com/problems/word-search-ii/?envType=study-plan-v2&envId=top-in
 
 10. Search Suggestions System
 https://leetcode.com/problems/search-suggestions-system/?envType=study-plan-v2&envId=leetcode-75
+
+11. Extra Characters in a String
+https://leetcode.com/problems/extra-characters-in-a-string/
+
+12. Prefix match with other strings
+https://www.geeksforgeeks.org/problems/prefix-match-with-other-strings/1?page=1&category=Trie&company=Amazon,Microsoft,Google,Flipkart,Adobe,Samsung,Morgan%20Stanley,Goldman%20Sachs,Oracle,Cisco,Uber,Salesforce,PayPal&sortBy=submissions
