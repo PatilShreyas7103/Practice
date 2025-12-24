@@ -35,3 +35,9 @@ https://leetcode.com/problems/extra-characters-in-a-string/
 
 12. Prefix match with other strings
 https://www.geeksforgeeks.org/problems/prefix-match-with-other-strings/1?page=1&category=Trie&company=Amazon,Microsoft,Google,Flipkart,Adobe,Samsung,Morgan%20Stanley,Goldman%20Sachs,Oracle,Cisco,Uber,Salesforce,PayPal&sortBy=submissions
+
+13. Top K Frequent Words
+https://leetcode.com/problems/top-k-frequent-words/
+
+14. Shortest Unique prefix for every word
+https://www.geeksforgeeks.org/problems/shortest-unique-prefix-for-every-word/1
