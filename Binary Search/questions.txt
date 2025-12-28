@@ -35,3 +35,19 @@ https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
 
 12. Find K-th Rotation in a Rotated Sorted Array
 https://www.geeksforgeeks.org/problems/rotation4723/1
+
+13. Single Element in a Sorted Array
+https://leetcode.com/problems/single-element-in-a-sorted-array/
+
+14. Find Peak element
+https://leetcode.com/problems/find-peak-element/
+
+15. Sqrt(x)
+https://leetcode.com/problems/sqrtx/
+
+16. N-th Root of a Number
+https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1
+
+17. Koko Eating Bananas
+https://leetcode.com/problems/koko-eating-bananas/
+
