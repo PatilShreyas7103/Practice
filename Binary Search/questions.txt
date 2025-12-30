@@ -68,3 +68,15 @@ https://www.geeksforgeeks.org/problems/aggressive-cows/1
 
 23. Book allocation problem
 https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1
+
+24. Split Array Largest Sum
+https://leetcode.com/problems/split-array-largest-sum/
+
+25. Painter's Partition
+https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1
+
+26. Row with Maximum Number of 1s 
+https://www.geeksforgeeks.org/problems/row-with-max-1s0023/1
+
+27. Search a 2D Matrix
+https://leetcode.com/problems/search-a-2d-matrix/
