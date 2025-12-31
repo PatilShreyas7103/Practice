@@ -105,6 +105,35 @@ https://leetcode.com/problems/successful-pairs-of-spells-and-potions/?envType=st
 35. Time Based Key-Value Store
 https://leetcode.com/problems/time-based-key-value-store/
 
+36. Find in Mountain Array
+https://leetcode.com/problems/find-in-mountain-array/
+
+37. Peak Index in a Mountain Array
+https://leetcode.com/problems/peak-index-in-a-mountain-array/description/
+
+38. Find Minimum in Rotated Sorted Array (With Duplicates)
+https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
+
+39. Modular exponentiation
+https://www.interviewbit.com/problems/implement-power-function/
+
+40. Minimum Platforms
+https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1?page=1&category=Binary%20Search&company=Amazon,Microsoft,Google,Flipkart,Adobe,Samsung,Paytm,Morgan%20Stanley,Goldman%20Sachs,Oracle,Qualcomm,Cisco,Uber&sortBy=submissions
+
+41. Check if Array B is a Subset of Array A
+https://www.geeksforgeeks.org/problems/array-subset-of-another-array2317/1?page=1&category=Binary%20Search&company=Amazon,Microsoft,Google,Flipkart,Adobe,Samsung,Paytm,Morgan%20Stanley,Goldman%20Sachs,Oracle,Qualcomm,Cisco,Uber&sortBy=submissions
+
+42. Find Pair with Given Difference 
+https://www.geeksforgeeks.org/problems/find-pair-given-difference1559/1?page=1&category=Binary%20Search&company=Amazon,Microsoft,Google,Flipkart,Adobe,Samsung,Paytm,Morgan%20Stanley,Goldman%20Sachs,Oracle,Qualcomm,Cisco,Uber&sortBy=submissions
+
+43.K-diff Pairs in an Array
+https://leetcode.com/problems/k-diff-pairs-in-an-array/
+
+44. Kth Smallest Element in a Sorted Matrix 
+https://www.geeksforgeeks.org/problems/kth-element-in-matrix/1?page=1&category=Binary%20Search&company=Amazon,Microsoft,Google,Flipkart,Adobe,Samsung,Paytm,Morgan%20Stanley,Goldman%20Sachs,Oracle,Qualcomm,Cisco,Uber&sortBy=submissions
+
+
+
 // Pending Questions :
 
 Minimize Max Distance to Gas Station
