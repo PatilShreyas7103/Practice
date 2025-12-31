@@ -83,3 +83,29 @@ https://leetcode.com/problems/search-a-2d-matrix/
 
 28. Search a 2D Matrix II
 https://leetcode.com/problems/search-a-2d-matrix-ii/
+
+29. Find a Peak Element II
+https://leetcode.com/problems/find-a-peak-element-ii/
+
+30. Median in a row-wise sorted Matrix
+https://www.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1
+
+31. Median of Two Sorted Arrays
+https://leetcode.com/problems/median-of-two-sorted-arrays/
+
+32. K-th element of two Arrays
+https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1
+
+33. Guess Number Higher or Lower
+https://leetcode.com/problems/guess-number-higher-or-lower/?envType=study-plan-v2&envId=leetcode-75
+
+34. Successful Pairs of Spells and Potions
+https://leetcode.com/problems/successful-pairs-of-spells-and-potions/?envType=study-plan-v2&envId=leetcode-75
+
+35. Time Based Key-Value Store
+https://leetcode.com/problems/time-based-key-value-store/
+
+// Pending Questions :
+
+Minimize Max Distance to Gas Station
+https://www.geeksforgeeks.org/problems/minimize-max-distance-to-gas-station/1
