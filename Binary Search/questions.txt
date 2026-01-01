@@ -132,6 +132,8 @@ https://leetcode.com/problems/k-diff-pairs-in-an-array/
 44. Kth Smallest Element in a Sorted Matrix 
 https://www.geeksforgeeks.org/problems/kth-element-in-matrix/1?page=1&category=Binary%20Search&company=Amazon,Microsoft,Google,Flipkart,Adobe,Samsung,Paytm,Morgan%20Stanley,Goldman%20Sachs,Oracle,Qualcomm,Cisco,Uber&sortBy=submissions
 
+45. Count of Smaller Numbers After Self 
+https://leetcode.com/problems/count-of-smaller-numbers-after-self/
 
 
 // Pending Questions :

@@ -1,0 +1,16 @@
+***************  Recursion  ****************
+
+1. String to Integer (atoi) 
+https://leetcode.com/problems/string-to-integer-atoi/
+
+2. Pow(x, n)
+https://leetcode.com/problems/powx-n/
+
+3. Count Good Numbers
+https://leetcode.com/problems/count-good-numbers/
+
+4. Sort a stack
+https://www.geeksforgeeks.org/problems/sort-a-stack/1
+
+5. Reverse a stack
+https://www.geeksforgeeks.org/problems/reverse-a-stack/1
