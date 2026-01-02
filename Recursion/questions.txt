@@ -14,3 +14,27 @@ https://www.geeksforgeeks.org/problems/sort-a-stack/1
 
 5. Reverse a stack
 https://www.geeksforgeeks.org/problems/reverse-a-stack/1
+
+6. Generate All Binary Strings of Length N
+https://www.geeksforgeeks.org/problems/generate-all-binary-strings/1
+
+7. Generate Parentheses
+https://leetcode.com/problems/generate-parentheses/
+
+8. Subsets
+https://leetcode.com/problems/subsets/
+
+9. Number of Subsequences That Satisfy the Given Sum Condition
+https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/
+
+10. Check if Any Subsequence Sum Equals Target
+https://www.geeksforgeeks.org/problems/check-if-there-exists-a-subsequence-with-sum-k/1
+
+11. Combination Sum I
+https://leetcode.com/problems/combination-sum/
+
+12. Combination Sum II
+https://leetcode.com/problems/combination-sum-ii/
+
+13. Subset Sums
+https://www.geeksforgeeks.org/problems/subset-sums2234/1
