@@ -38,3 +38,21 @@ https://leetcode.com/problems/combination-sum-ii/
 
 13. Subset Sums
 https://www.geeksforgeeks.org/problems/subset-sums2234/1
+
+14. Subsets II
+https://leetcode.com/problems/subsets-ii/
+
+15. Combination Sum III
+https://leetcode.com/problems/combination-sum-iii/
+
+16. Letter Combinations of a Phone Number
+https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+
+17. Palindrome Partitioning
+https://leetcode.com/problems/palindrome-partitioning/
+
+18. N-Queens  
+https://leetcode.com/problems/n-queens/
+
+19. Rat in a Maze
+https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1
