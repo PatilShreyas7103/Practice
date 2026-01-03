@@ -1,4 +1,4 @@
-***************  Recursion  ****************
+***************  Recursion / Backtracking ****************
 
 1. String to Integer (atoi) 
 https://leetcode.com/problems/string-to-integer-atoi/
@@ -56,3 +56,15 @@ https://leetcode.com/problems/n-queens/
 
 19. Rat in a Maze
 https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1
+
+20. M coloring graph
+https://www.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1
+
+21. Sudoku Solver
+https://leetcode.com/problems/sudoku-solver/
+
+22. Word Break II
+https://leetcode.com/problems/word-break-ii/
+
+23. Permutations
+https://leetcode.com/problems/permutations/
