@@ -83,3 +83,9 @@ https://leetcode.com/problems/permutations-ii/
 
 28. Matchsticks to Square
 https://leetcode.com/problems/matchsticks-to-square/
+
+29. Partition to K Equal Sum Subsets
+https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
+
+30. Beautiful Arrangement
+https://leetcode.com/problems/beautiful-arrangement/
