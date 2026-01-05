@@ -1,0 +1,31 @@
+************** Stack and Queue *****************
+
+1. Next Greater Element I
+https://leetcode.com/problems/next-greater-element-i/
+
+2. Next Greater Element II
+https://leetcode.com/problems/next-greater-element-ii/
+
+3. Next Smaller element
+https://www.geeksforgeeks.org/problems/immediate-smaller-element1142/1
+
+4. Trapping Rain Water
+https://leetcode.com/problems/trapping-rain-water/
+
+5. Implement Stack using Array
+https://www.geeksforgeeks.org/problems/implement-stack-using-array/1
+
+6. Array Based Circular Queue Implementation
+https://www.geeksforgeeks.org/problems/implement-queue-using-array/1
+
+7. Sum of Subarray Minimums
+https://leetcode.com/problems/sum-of-subarray-minimums/
+
+8. Asteroid Collision
+https://leetcode.com/problems/asteroid-collision/
+
+9. Sum of Subarray Ranges
+https://leetcode.com/problems/sum-of-subarray-ranges/
+
+10. Remove K Digits
+https://leetcode.com/problems/remove-k-digits/
