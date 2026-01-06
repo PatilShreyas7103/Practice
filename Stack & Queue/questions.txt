@@ -73,6 +73,21 @@ https://leetcode.com/problems/implement-queue-using-stacks/
 27. Postfix to Prefix
 28. Prefix to Postfix
 
+29. Evaluate Reverse Polish Notation
+https://leetcode.com/problems/evaluate-reverse-polish-notation/?envType=study-plan-v2&envId=top-interview-150
+
+30. Simplify Path
+https://leetcode.com/problems/simplify-path/?envType=study-plan-v2&envId=top-interview-150
+
+31. Basic Calculator
+https://leetcode.com/problems/basic-calculator/?envType=study-plan-v2&envId=top-interview-150
+
+32. Decode String
+https://leetcode.com/problems/decode-string/?envType=study-plan-v2&envId=top-100-liked
+
+33. Daily Temperatures
+https://leetcode.com/problems/daily-temperatures/?envType=study-plan-v2&envId=top-100-liked
+
 
 Pending Questions:
 Implement LFU cache 
