@@ -48,7 +48,30 @@ https://www.geeksforgeeks.org/problems/the-celebrity-problem/1
 16. LRU Cache
 https://leetcode.com/problems/lru-cache/
 
+17. Stack using linked list
+https://www.geeksforgeeks.org/problems/implement-stack-using-linked-list/1
 
+18. Queue using linked list
+https://www.geeksforgeeks.org/problems/implement-queue-using-linked-list/1
+
+19. Valid Parentheses
+https://leetcode.com/problems/valid-parentheses/
+
+20. Min Stack
+https://leetcode.com/problems/min-stack/
+
+21. Implement Stack using Queues
+https://leetcode.com/problems/implement-stack-using-queues/
+
+22. Implement Queue using Stacks
+https://leetcode.com/problems/implement-queue-using-stacks/
+
+23. Infix to Postfix
+24. Infix to Prefix
+25. Postfix to Infix
+26. Prefix to Infix
+27. Postfix to Prefix
+28. Prefix to Postfix
 
 
 Pending Questions:
