@@ -100,7 +100,14 @@ https://leetcode.com/problems/baseball-game/
 37. Car Fleet
 https://leetcode.com/problems/car-fleet/
 
+38. Maximum Frequency Stack 
+https://leetcode.com/problems/maximum-frequency-stack/
 
+39. First Non-Repeating Character in a Stream
+https://www.interviewbit.com/problems/first-non-repeating-character-in-a-stream-of-characters/
+
+40. Redundant braces
+https://www.interviewbit.com/problems/redundant-braces/
 
 
 
