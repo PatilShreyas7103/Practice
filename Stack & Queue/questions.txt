@@ -88,6 +88,21 @@ https://leetcode.com/problems/decode-string/?envType=study-plan-v2&envId=top-100
 33. Daily Temperatures
 https://leetcode.com/problems/daily-temperatures/?envType=study-plan-v2&envId=top-100-liked
 
+34. Removing Stars From a String
+https://leetcode.com/problems/removing-stars-from-a-string/?envType=study-plan-v2&envId=leetcode-75
+
+35. Number of Recent Calls
+https://leetcode.com/problems/number-of-recent-calls/?envType=study-plan-v2&envId=leetcode-75
+
+36. Baseball Game
+https://leetcode.com/problems/baseball-game/
+
+37. Car Fleet
+https://leetcode.com/problems/car-fleet/
+
+
+
+
 
 Pending Questions:
 Implement LFU cache 
