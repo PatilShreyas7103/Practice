@@ -109,6 +109,22 @@ https://www.interviewbit.com/problems/first-non-repeating-character-in-a-stream-
 40. Redundant braces
 https://www.interviewbit.com/problems/redundant-braces/
 
+41. Longest Valid Parentheses
+https://leetcode.com/problems/longest-valid-parentheses/
+
+42. Design Circular Deque
+https://leetcode.com/problems/design-circular-deque/
+
+43. First Negative Integer in Every Window of Size K
+https://www.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1?page=1&category=Stack,Queue&company=Amazon,Microsoft,Google,Flipkart,Adobe,Samsung,MakeMyTrip,Paytm,Morgan%20Stanley,Walmart,Goldman%20Sachs,Oracle,Qualcomm,Cisco,Visa,Uber,Salesforce,PayPal&sortBy=submissions
+
+44. Two Stacks in an Array
+https://www.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1?page=1&category=Stack,Queue&company=Amazon,Microsoft,Google,Flipkart,Adobe,Samsung,MakeMyTrip,Paytm,Morgan%20Stanley,Walmart,Goldman%20Sachs,Oracle,Qualcomm,Cisco,Visa,Uber,Salesforce,PayPal&sortBy=submissions
+
+45. Delete Middle Element of a Stack
+https://www.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1?page=1&category=Stack,Queue&company=Amazon,Microsoft,Google,Flipkart,Adobe,Samsung,MakeMyTrip,Paytm,Morgan%20Stanley,Walmart,Goldman%20Sachs,Oracle,Qualcomm,Cisco,Visa,Uber,Salesforce,PayPal&sortBy=submissions
+
+
 
 
 Pending Questions:
