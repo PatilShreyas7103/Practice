@@ -124,6 +124,8 @@ https://www.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1?page=1
 45. Delete Middle Element of a Stack
 https://www.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1?page=1&category=Stack,Queue&company=Amazon,Microsoft,Google,Flipkart,Adobe,Samsung,MakeMyTrip,Paytm,Morgan%20Stanley,Walmart,Goldman%20Sachs,Oracle,Qualcomm,Cisco,Visa,Uber,Salesforce,PayPal&sortBy=submissions
 
+46. Minimum Add to Make Parentheses Valid
+https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
 
 
 
