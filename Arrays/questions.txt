@@ -17,3 +17,45 @@ https://leetcode.com/problems/rotate-array/
 
 6. Move Zeroes
 https://leetcode.com/problems/move-zeroes/
+
+7. Union of 2 Sorted Arrays
+https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1
+
+8. Missing Number in Array
+https://leetcode.com/problems/missing-number/
+
+9. Max Consecutive Ones
+https://leetcode.com/problems/max-consecutive-ones/
+
+10. Single Non-Repeating Element in Array
+https://leetcode.com/problems/single-number/
+
+11. Longest Subarray with Sum K
+https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1
+
+12. Two Sum
+https://leetcode.com/problems/two-sum/
+
+13. Sort Colors
+https://leetcode.com/problems/sort-colors/
+
+14. Majority Element
+https://leetcode.com/problems/majority-element/
+
+15. Maximum Subarray / Kadane's algo
+https://leetcode.com/problems/maximum-subarray/
+
+16. Rearrange Array Elements by Sign
+https://leetcode.com/problems/rearrange-array-elements-by-sign/
+
+17. Next Permutation
+https://leetcode.com/problems/next-permutation/
+
+18. Leaders in an Array
+https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1
+
+19. Longest Consecutive Sequence
+https://leetcode.com/problems/longest-consecutive-sequence/
+
+20. Set Matrix Zeroes
+https://leetcode.com/problems/set-matrix-zeroes/
