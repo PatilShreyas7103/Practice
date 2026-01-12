@@ -59,3 +59,45 @@ https://leetcode.com/problems/longest-consecutive-sequence/
 
 20. Set Matrix Zeroes
 https://leetcode.com/problems/set-matrix-zeroes/
+
+21. Rotate Image
+https://leetcode.com/problems/rotate-image/
+
+22. Spiral Matrix
+https://leetcode.com/problems/spiral-matrix/
+
+23. Subarray Sum Equals K
+https://leetcode.com/problems/subarray-sum-equals-k/
+
+24. Pascal's triangle
+https://leetcode.com/problems/pascals-triangle/
+
+25. Majority Element II
+https://leetcode.com/problems/majority-element-ii/
+
+26. 3 Sum
+https://leetcode.com/problems/3sum/
+
+27. 4Sum
+https://leetcode.com/problems/4sum/
+
+28. Largest subarray with 0 sum
+https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1
+
+29. Count the number of subarrays with given xor K
+https://www.geeksforgeeks.org/problems/count-subarray-with-given-xor/1
+
+30. Merge Intervals
+https://leetcode.com/problems/merge-intervals/
+
+31. Merge two Sorted Arrays Without Extra Space
+https://leetcode.com/problems/merge-sorted-array/
+
+32. Missing and repeating 
+https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1
+
+33. Count inversions
+https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1
+
+34. Reverse Pairs
+https://leetcode.com/problems/reverse-pairs/
