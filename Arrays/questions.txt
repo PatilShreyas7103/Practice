@@ -101,3 +101,17 @@ https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1
 
 34. Reverse Pairs
 https://leetcode.com/problems/reverse-pairs/
+
+35. Longest Substring Without Repeating Characters
+https://leetcode.com/problems/longest-substring-without-repeating-characters/
+
+36. Product of Array Except Self
+https://leetcode.com/problems/product-of-array-except-self/
+
+37. Container With Most Water
+https://leetcode.com/problems/container-with-most-water/
+
+38. Remove Element
+https://leetcode.com/problems/remove-element/?envType=study-plan-v2&envId=top-interview-150
+
+39. 
