@@ -134,3 +134,6 @@ https://leetcode.com/problems/candy/?envType=study-plan-v2&envId=top-interview-1
 
 45. Valid Sudoku
 https://leetcode.com/problems/valid-sudoku/?envType=study-plan-v2&envId=top-interview-150
+
+46. Game of Life
+https://leetcode.com/problems/game-of-life/?envType=study-plan-v2&envId=top-interview-150
