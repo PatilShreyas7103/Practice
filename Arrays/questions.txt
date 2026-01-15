@@ -114,4 +114,23 @@ https://leetcode.com/problems/container-with-most-water/
 38. Remove Element
 https://leetcode.com/problems/remove-element/?envType=study-plan-v2&envId=top-interview-150
 
-39. 
+39. Remove Duplicates from Sorted Array II
+https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/?envType=study-plan-v2&envId=top-interview-150
+
+40. Jump Game II
+https://leetcode.com/problems/jump-game-ii/?envType=study-plan-v2&envId=top-interview-150
+
+41. H-Index
+https://leetcode.com/problems/h-index/?envType=study-plan-v2&envId=top-interview-150
+
+42. Insert Delete GetRandom O(1)
+https://leetcode.com/problems/insert-delete-getrandom-o1/?envType=study-plan-v2&envId=top-interview-150
+
+43. Gas Station
+https://leetcode.com/problems/gas-station/?envType=study-plan-v2&envId=top-interview-150
+
+44. Candy
+https://leetcode.com/problems/candy/?envType=study-plan-v2&envId=top-interview-150
+
+45. Valid Sudoku
+https://leetcode.com/problems/valid-sudoku/?envType=study-plan-v2&envId=top-interview-150
