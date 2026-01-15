@@ -137,3 +137,15 @@ https://leetcode.com/problems/valid-sudoku/?envType=study-plan-v2&envId=top-inte
 
 46. Game of Life
 https://leetcode.com/problems/game-of-life/?envType=study-plan-v2&envId=top-interview-150
+
+47. Find Pivot Index
+https://leetcode.com/problems/find-pivot-index/?envType=study-plan-v2&envId=leetcode-75
+
+48. Kids With the Greatest Number of Candies
+https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/?envType=study-plan-v2&envId=leetcode-75
+
+49. Can Place Flowers
+https://leetcode.com/problems/can-place-flowers/?envType=study-plan-v2&envId=leetcode-75
+
+50.  Increasing Triplet Subsequence
+https://leetcode.com/problems/increasing-triplet-subsequence/?envType=study-plan-v2&envId=leetcode-75
