@@ -8,3 +8,6 @@ https://leetcode.com/problems/roman-to-integer/?envType=study-plan-v2&envId=top-
 
 3. Integer to Roman
 https://leetcode.com/problems/integer-to-roman/?envType=study-plan-v2&envId=top-interview-150
+
+4. Encode and Decode Strings
+https://neetcode.io/problems/string-encode-and-decode/question

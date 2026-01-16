@@ -149,3 +149,27 @@ https://leetcode.com/problems/can-place-flowers/?envType=study-plan-v2&envId=lee
 
 50.  Increasing Triplet Subsequence
 https://leetcode.com/problems/increasing-triplet-subsequence/?envType=study-plan-v2&envId=leetcode-75
+
+51. Valid Anagram
+https://leetcode.com/problems/valid-anagram/
+
+52. Longest Common Prefix
+https://leetcode.com/problems/longest-common-prefix/
+
+53. Group Anagrams
+https://leetcode.com/problems/group-anagrams/
+
+54. Design HashSet
+https://leetcode.com/problems/design-hashset/
+
+55. Design HashMap
+https://leetcode.com/problems/design-hashmap/
+
+56. First Missing Positive
+https://leetcode.com/problems/first-missing-positive/
+
+57. Range Sum Query 2D - Immutable
+https://leetcode.com/problems/range-sum-query-2d-immutable/
+
+58. Insert Intervals
+https://leetcode.com/problems/insert-interval/
