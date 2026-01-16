@@ -173,3 +173,21 @@ https://leetcode.com/problems/range-sum-query-2d-immutable/
 
 58. Insert Intervals
 https://leetcode.com/problems/insert-interval/
+
+59. Largest number
+https://leetcode.com/problems/largest-number/
+
+60. Maximum Gap 
+https://www.interviewbit.com/problems/max-distance/
+
+61. Max Non Negative SubArray
+https://www.interviewbit.com/problems/max-non-negative-subarray/
+
+62. Wave Array 
+https://www.interviewbit.com/problems/wave-array/
+
+63. Anti Diagonals
+https://www.interviewbit.com/problems/anti-diagonals/
+
+64. Hotel Bookings Possible 
+https://www.interviewbit.com/problems/hotel-bookings-possible/

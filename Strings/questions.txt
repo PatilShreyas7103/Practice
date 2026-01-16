@@ -11,3 +11,6 @@ https://leetcode.com/problems/integer-to-roman/?envType=study-plan-v2&envId=top-
 
 4. Encode and Decode Strings
 https://neetcode.io/problems/string-encode-and-decode/question
+
+5. Flip String
+https://www.interviewbit.com/problems/flip/
