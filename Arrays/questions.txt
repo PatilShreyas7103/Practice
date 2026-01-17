@@ -191,3 +191,15 @@ https://www.interviewbit.com/problems/anti-diagonals/
 
 64. Hotel Bookings Possible 
 https://www.interviewbit.com/problems/hotel-bookings-possible/
+
+65. Max absolute difference
+https://www.interviewbit.com/problems/maximum-absolute-difference/
+
+66. Maximum Unsorted Subarray 
+https://www.interviewbit.com/problems/maximum-unsorted-subarray/
+
+67. Perfect Peak 
+https://www.interviewbit.com/problems/perfect-peak-of-array/
+
+68. Make equal elements Array
+https://www.interviewbit.com/problems/make-equal-elements-array/
