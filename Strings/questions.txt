@@ -29,3 +29,18 @@ https://leetcode.com/problems/isomorphic-strings/
 
 10. Rotate String
 https://leetcode.com/problems/rotate-string/
+
+11. Sort Characters By Frequency
+https://leetcode.com/problems/sort-characters-by-frequency/
+
+12. Maximum Nesting Depth of the Parentheses
+https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
+
+13. Sum of Beauty of All Substrings
+https://leetcode.com/problems/sum-of-beauty-of-all-substrings/
+
+14. Count Substrings with Exactly K Distinct Characters
+https://www.geeksforgeeks.org/problems/count-number-of-substrings4528/1
+
+15. Minimum Reversals to Balance Parentheses
+https://www.geeksforgeeks.org/problems/count-the-reversals0401/1
