@@ -44,3 +44,20 @@ https://www.geeksforgeeks.org/problems/count-number-of-substrings4528/1
 
 15. Minimum Reversals to Balance Parentheses
 https://www.geeksforgeeks.org/problems/count-the-reversals0401/1
+
+16. Count and Say
+https://leetcode.com/problems/count-and-say/
+
+17. Repeated String Match
+https://leetcode.com/problems/repeated-string-match/
+
+18. Implement strStr() 
+https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/
+
+19. Compare Version Numbers
+https://leetcode.com/problems/compare-version-numbers/
+
+Pending:
+1. Rabin karp
+2. Z function
+3. KMP algo
