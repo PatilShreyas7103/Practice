@@ -57,6 +57,21 @@ https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string
 19. Compare Version Numbers
 https://leetcode.com/problems/compare-version-numbers/
 
+20. Minimum Window Substring
+https://leetcode.com/problems/minimum-window-substring/
+
+21. Zigzag Conversion
+https://leetcode.com/problems/zigzag-conversion/?envType=study-plan-v2&envId=top-interview-150
+
+22. Text Justification
+https://leetcode.com/problems/text-justification/?envType=study-plan-v2&envId=top-interview-150
+
+23. Merge Strings Alternately
+https://leetcode.com/problems/merge-strings-alternately/?envType=study-plan-v2&envId=leetcode-75
+
+
+
+
 Pending:
 1. Rabin karp
 2. Z function
