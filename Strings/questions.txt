@@ -93,6 +93,20 @@ https://leetcode.com/problems/valid-palindrome/
 31. Permutations of a String
 https://www.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1?page=1&category=Strings&company=Amazon,Microsoft,Google,Flipkart,Adobe,Samsung,Paytm,Morgan%20Stanley,Goldman%20Sachs,Oracle,Qualcomm,Cisco,Visa,Uber,Salesforce,PayPal&sortBy=submissions
 
+32. First Unique Character in a String
+https://leetcode.com/problems/first-unique-character-in-a-string/
+
+33. Longest Substring with Exactly K Distinct Characters
+https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1?page=1&category=Strings&company=Amazon,Microsoft,Google,Flipkart,Adobe,Samsung,Paytm,Morgan%20Stanley,Goldman%20Sachs,Oracle,Qualcomm,Cisco,Visa,Uber,Salesforce,PayPal&sortBy=submissions
+
+34. Longest Substring with At Least K Repeating Characters
+https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/
+
+35. Recursively Remove Adjacent Duplicates
+https://www.geeksforgeeks.org/problems/recursively-remove-all-adjacent-duplicates0744/1?page=2&category=Strings&company=Amazon,Microsoft,Google,Flipkart,Adobe,Samsung,Paytm,Morgan%20Stanley,Goldman%20Sachs,Oracle,Qualcomm,Cisco,Visa,Uber,Salesforce,PayPal&sortBy=submissions
+
+36. Longest Substring Without Repeating Characters
+https://www.geeksforgeeks.org/problems/longest-distinct-characters-in-string5848/1?page=2&category=Strings&company=Amazon,Microsoft,Google,Flipkart,Adobe,Samsung,Paytm,Morgan%20Stanley,Goldman%20Sachs,Oracle,Qualcomm,Cisco,Visa,Uber,Salesforce,PayPal&sortBy=submissions
 
 
 
