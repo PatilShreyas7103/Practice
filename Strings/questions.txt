@@ -87,7 +87,11 @@ https://leetcode.com/problems/restore-ip-addresses/
 29. Add Binary
 https://leetcode.com/problems/add-binary/
 
+30. Valid Palindrome
+https://leetcode.com/problems/valid-palindrome/
 
+31. Permutations of a String
+https://www.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1?page=1&category=Strings&company=Amazon,Microsoft,Google,Flipkart,Adobe,Samsung,Paytm,Morgan%20Stanley,Goldman%20Sachs,Oracle,Qualcomm,Cisco,Visa,Uber,Salesforce,PayPal&sortBy=submissions
 
 
 
