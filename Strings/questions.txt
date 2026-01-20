@@ -69,6 +69,26 @@ https://leetcode.com/problems/text-justification/?envType=study-plan-v2&envId=to
 23. Merge Strings Alternately
 https://leetcode.com/problems/merge-strings-alternately/?envType=study-plan-v2&envId=leetcode-75
 
+24. Reverse Vowels of a String
+https://leetcode.com/problems/reverse-vowels-of-a-string/?envType=study-plan-v2&envId=leetcode-75
+
+25. Greatest Common Divisor of Strings
+https://leetcode.com/problems/greatest-common-divisor-of-strings/?envType=study-plan-v2&envId=leetcode-75
+
+26. String Compression
+https://leetcode.com/problems/string-compression/?envType=study-plan-v2&envId=leetcode-75
+
+27. Multiply Strings
+https://leetcode.com/problems/multiply-strings/
+
+28. Restore IP Addresses
+https://leetcode.com/problems/restore-ip-addresses/
+
+29. Add Binary
+https://leetcode.com/problems/add-binary/
+
+
+
 
 
 
