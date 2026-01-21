@@ -11,3 +11,6 @@ https://leetcode.com/problems/longest-repeating-character-replacement/
 
 4. Binary Subarrays With Sum
 https://leetcode.com/problems/binary-subarrays-with-sum/
+
+5. Count Number of Nice Subarrays
+https://leetcode.com/problems/count-number-of-nice-subarrays/
