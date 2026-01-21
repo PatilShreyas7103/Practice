@@ -1,0 +1,13 @@
+************ Sliding window and 2 Pointer *************
+
+1.  Max Consecutive Ones III
+https://leetcode.com/problems/max-consecutive-ones-iii/
+
+2. Fruit Into Baskets
+https://leetcode.com/problems/fruit-into-baskets/
+
+3. Longest Repeating Character Replacement
+https://leetcode.com/problems/longest-repeating-character-replacement/
+
+4. Binary Subarrays With Sum
+https://leetcode.com/problems/binary-subarrays-with-sum/
