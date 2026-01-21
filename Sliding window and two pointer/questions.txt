@@ -14,3 +14,9 @@ https://leetcode.com/problems/binary-subarrays-with-sum/
 
 5. Count Number of Nice Subarrays
 https://leetcode.com/problems/count-number-of-nice-subarrays/
+
+6. Number of Substrings Containing All Three Characters
+https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
+
+7. Maximum Points You Can Obtain from Cards
+https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
