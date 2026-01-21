@@ -108,6 +108,15 @@ https://www.geeksforgeeks.org/problems/recursively-remove-all-adjacent-duplicate
 36. Longest Substring Without Repeating Characters
 https://www.geeksforgeeks.org/problems/longest-distinct-characters-in-string5848/1?page=2&category=Strings&company=Amazon,Microsoft,Google,Flipkart,Adobe,Samsung,Paytm,Morgan%20Stanley,Goldman%20Sachs,Oracle,Qualcomm,Cisco,Visa,Uber,Salesforce,PayPal&sortBy=submissions
 
+37. Remove Duplicates from string
+https://www.geeksforgeeks.org/problems/remove-duplicates3034/1?page=2&category=Strings&company=Amazon,Microsoft,Google,Flipkart,Adobe,Samsung,Paytm,Morgan%20Stanley,Goldman%20Sachs,Oracle,Qualcomm,Cisco,Visa,Uber,Salesforce,PayPal&sortBy=submissions
+
+38. Add Strings
+https://leetcode.com/problems/add-strings/
+
+
+
+
 
 
 Pending:
