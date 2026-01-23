@@ -2,6 +2,24 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+
+/*
+Approach:
+- Use two pointers from both ends
+- If characters match → move inward
+- On first mismatch:
+    - Try deleting left character
+    - OR try deleting right character
+- If either remaining substring is palindrome → true
+
+Time Complexity:
+- O(n)
+  (At most one extra palindrome check)
+
+Space Complexity:
+- O(1)
+*/
+
 class Solution {
 public:
     // Helper function to check palindrome in substring [l, r]
@@ -32,20 +50,3 @@ public:
         return true;
     }
 };
-
-/*
-Approach:
-- Use two pointers from both ends
-- If characters match → move inward
-- On first mismatch:
-    - Try deleting left character
-    - OR try deleting right character
-- If either remaining substring is palindrome → true
-
-Time Complexity:
-- O(n)
-  (At most one extra palindrome check)
-
-Space Complexity:
-- O(1)
-*/

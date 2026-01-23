@@ -2,6 +2,20 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+/*
+Approach:
+- A permutation means both strings have the same character frequency
+- Maintain a sliding window of size |a| in string b
+- Compare frequency arrays at each step
+- If they match, permutation exists
+
+Time Complexity:
+- O(n)  (each character processed once)
+
+Space Complexity:
+- O(1)  (fixed 26-size frequency arrays)
+*/
+
 class Solution {
 public:
     bool checkInclusion(string a, string b) {
@@ -32,16 +46,3 @@ public:
     }
 };
 
-/*
-Approach:
-- A permutation means both strings have the same character frequency
-- Maintain a sliding window of size |a| in string b
-- Compare frequency arrays at each step
-- If they match, permutation exists
-
-Time Complexity:
-- O(n)  (each character processed once)
-
-Space Complexity:
-- O(1)  (fixed 26-size frequency arrays)
-*/
