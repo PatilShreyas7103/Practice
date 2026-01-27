@@ -183,6 +183,17 @@ https://www.geeksforgeeks.org/print-nodes-at-k-distance-from-root/
 61. Populate Inorder Successor for All Nodes
 https://www.geeksforgeeks.org/populate-inorder-successor-for-all-nodes/
 
+62. Merge Two Binary Trees
+https://leetcode.com/problems/merge-two-binary-trees/
+
+63. Binary Tree Paths
+https://leetcode.com/problems/binary-tree-paths/
+
+64. Sum of Left Leaves
+https://leetcode.com/problems/sum-of-left-leaves/
+
+
+
 // Questions not attempted:
 
 427. Construct Quad Tree

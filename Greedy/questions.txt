@@ -1,0 +1,10 @@
+*********** Greedy ************
+
+1. Assign cookies
+https://leetcode.com/problems/assign-cookies/
+
+2. Fractional knapsack
+https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1
+
+3. Lemonade Change
+https://leetcode.com/problems/lemonade-change/

@@ -96,6 +96,10 @@ https://leetcode.com/problems/closest-nodes-queries-in-a-binary-search-tree/
 32. Convert a Binary Tree to a Binary Search Tree (BST)
 https://www.geeksforgeeks.org/binary-tree-to-binary-search-tree-conversion/
 
+33.  Range Sum of BST
+https://leetcode.com/problems/range-sum-of-bst/
+
+
 // Not attempted:
 1569. Number of Ways to Reorder Array to Get Same BST
 https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/
