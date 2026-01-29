@@ -35,3 +35,12 @@ https://neetcode.io/problems/meeting-schedule-ii/question
 
 12. Maximum Sum Circular Subarray
 https://leetcode.com/problems/maximum-sum-circular-subarray/
+
+13. Partition Labels
+https://leetcode.com/problems/partition-labels/
+
+14. Excel Sheet Column Title
+https://leetcode.com/problems/excel-sheet-column-title/
+
+15. Transpose Matrix
+https://leetcode.com/problems/transpose-matrix/
