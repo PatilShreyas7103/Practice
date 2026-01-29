@@ -23,3 +23,15 @@ https://www.geeksforgeeks.org/problems/shortest-job-first/1
 
 8. Job Sequencing Problem
 https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1
+
+9. Candy
+https://leetcode.com/problems/candy/
+
+10. Meeting rooms
+https://neetcode.io/problems/meeting-schedule/question
+
+11. Meeting Rooms II
+https://neetcode.io/problems/meeting-schedule-ii/question
+
+12. Maximum Sum Circular Subarray
+https://leetcode.com/problems/maximum-sum-circular-subarray/
