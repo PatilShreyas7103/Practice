@@ -44,3 +44,6 @@ https://leetcode.com/problems/excel-sheet-column-title/
 
 15. Transpose Matrix
 https://leetcode.com/problems/transpose-matrix/
+
+16. Word Pattern
+https://leetcode.com/problems/word-pattern/?envType=study-plan-v2&envId=top-interview-150
