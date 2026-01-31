@@ -47,3 +47,9 @@ https://leetcode.com/problems/transpose-matrix/
 
 16. Word Pattern
 https://leetcode.com/problems/word-pattern/?envType=study-plan-v2&envId=top-interview-150
+
+17. Minimum Number of Arrows to Burst Balloons
+https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/?envType=study-plan-v2&envId=top-interview-150
+
+18. Reverse Bits
+https://leetcode.com/problems/reverse-bits/?envType=study-plan-v2&envId=top-interview-150

@@ -203,3 +203,9 @@ https://www.interviewbit.com/problems/perfect-peak-of-array/
 
 68. Make equal elements Array
 https://www.interviewbit.com/problems/make-equal-elements-array/
+
+69. Find the Difference of Two Arrays
+https://leetcode.com/problems/find-the-difference-of-two-arrays/?envType=study-plan-v2&envId=leetcode-75
+
+70. Unique Number of Occurrences
+https://leetcode.com/problems/unique-number-of-occurrences/?envType=study-plan-v2&envId=leetcode-75

@@ -57,6 +57,9 @@ https://leetcode.com/problems/permutation-in-string/
 19. Boats to Save People
 https://leetcode.com/problems/boats-to-save-people/
 
+20. Summary Ranges
+https://leetcode.com/problems/summary-ranges/?envType=study-plan-v2&envId=top-interview-150
+
 
 Pending Questions:
 1. Substring with Concatenation of All Words
