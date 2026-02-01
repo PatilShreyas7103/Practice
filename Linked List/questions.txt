@@ -120,5 +120,12 @@ https://leetcode.com/problems/design-circular-queue/
 40. Swap Nodes in Pairs
 https://leetcode.com/problems/swap-nodes-in-pairs/
 
-41. LFU Cache (Pending)
+41. Swap Nodes in Pairs
+https://leetcode.com/problems/swap-nodes-in-pairs/
+
+
+
+Pending Questions:
+
+LFU Cache 
 https://leetcode.com/problems/lfu-cache/

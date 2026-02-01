@@ -60,6 +60,9 @@ https://leetcode.com/problems/boats-to-save-people/
 20. Summary Ranges
 https://leetcode.com/problems/summary-ranges/?envType=study-plan-v2&envId=top-interview-150
 
+21. 3Sum Closest
+https://leetcode.com/problems/3sum-closest/
+
 
 Pending Questions:
 1. Substring with Concatenation of All Words

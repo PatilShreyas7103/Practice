@@ -192,7 +192,11 @@ https://leetcode.com/problems/binary-tree-paths/
 64. Sum of Left Leaves
 https://leetcode.com/problems/sum-of-left-leaves/
 
+65. Construct Binary Tree from Preorder and Postorder Traversal
+https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/
 
+66. Min Distance Between Two Given Nodes of a Binary Tree
+https://www.geeksforgeeks.org/problems/min-distance-between-two-given-nodes-of-a-binary-tree/1
 
 // Questions not attempted:
 

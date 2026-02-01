@@ -99,6 +99,14 @@ https://www.geeksforgeeks.org/binary-tree-to-binary-search-tree-conversion/
 33.  Range Sum of BST
 https://leetcode.com/problems/range-sum-of-bst/
 
+34. BST with Dead End
+https://www.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end/1
+
+35. Unique Binary Search Trees II
+https://leetcode.com/problems/unique-binary-search-trees-ii/
+
+36. Preorder to BST
+https://www.geeksforgeeks.org/problems/preorder-to-postorder4423/1
 
 // Not attempted:
 1569. Number of Ways to Reorder Array to Get Same BST
