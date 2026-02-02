@@ -123,6 +123,9 @@ https://leetcode.com/problems/swap-nodes-in-pairs/
 41. Swap Nodes in Pairs
 https://leetcode.com/problems/swap-nodes-in-pairs/
 
+42. Binary Tree to DLL
+https://www.geeksforgeeks.org/problems/binary-tree-to-dll/1
+
 
 
 Pending Questions:
